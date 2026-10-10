@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "id": "story_20261009_move_012450_ks",
+  "type": "stock_move",
+  "locale": "ko",
+  "importance": 2,
+  "title": "한화에어로스페이스 주가 하루 만에 8.33% 하락",
+  "summary_lines": [
+    "거래량이 3개월 평균의 2.3배를 기록하며 주가가 891,000원으로 마감됐다.",
+    "우주항공 관련주 중 쎄트렉아이 등과 함께 약세를 보였다.",
+    "호주법인의 무인지상체계 협력 확대 및 무인기·드론 생태계 구축 MOU 소식이 있었다."
+  ],
+  "facts": {
+    "name": "한화에어로스페이스",
+    "ticker": "012450",
+    "country": "KR",
+    "currency": "KRW",
+    "signal": "drop",
+    "price": 891000.0,
+    "change_pct": -8.33,
+    "market_cap": 45840869621760.0,
+    "volume": 411523,
+    "avg_volume_3m": 178643,
+    "volume_ratio": 2.3,
+    "high_52w": 1655000.0,
+    "from_high_pct": -46.2,
+    "as_of": "2026-10-08T06:32:10+00:00",
+    "ai_summary": true,
+    "news1_title": "한화에어로스페이스 주가 71,000원 하락 후 장마감",
+    "news1_publisher": "아시아뉴스통신",
+    "news2_title": "[우주항공 관련주] 덕산네오룩스·이노스페이스 상승…한화에어로스페이스·쎄트렉아이 약세",
+    "news2_publisher": "CBC뉴스",
+    "news3_title": "한화에어로스페이스 호주법인, 밀렘 로보틱스와 무인지상체계 협력 확대",
+    "news3_publisher": "더구루"
+  },
+  "tickers": [
+    "012450.KS"
+  ],
+  "my_money_hook": null,
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/012450.KS"
+    },
+    {
+      "name": "아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUZUt6TENQTFJtWENiNVMydGsxUkVaaTg4TldTNEd5ZFRXVGozN1dXY1pKaHo4YjhRMlVBM1pGMVJuV1RxYnR5QldDSGJlSVVtOVgxX05sWEFjNmNtNW5WdlFkNzJWSDhZV0lSanVPWkdHb0JU?oc=5"
+    },
+    {
+      "name": "CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVHJkRkhWWkdabWNWRjBETkRqb1ZKdXpxaGJlTUVIMVZVZUFCaDVKU3YyUE9jMjFOeFdSRTR2U2lJQ01GcjdXaDZTZldzNE9VcUpSUnFpc3RpWFJ3T0tCSlpzYTVrcjN3?oc=5"
+    },
+    {
+      "name": "더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpTUlWekdXdjN0OV90LXozdVI5YlRRMXdyV3FMWDdXWDV4VFFPbTdDRFkxQzh5X3pzUm5CLUZJR1B0dnhDcU4wOUFtUE5MeWE2WUxHb1J1ZTJ6SURtblE?oc=5"
+    }
+  ],
+  "web_slug": "/stories/2026/10/09/move-012450",
+  "channels": {
+    "push": false,
+    "web": true,
+    "instagram": false,
+    "threads": true,
+    "newsletter": false
+  },
+  "status": "draft",
+  "created_at": "2026-10-09T01:39:40.668135+09:00"
+}
