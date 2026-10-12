@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "id": "story_20261013_move_mdt_en",
+ "type": "stock_move",
+ "locale": "en",
+ "importance": 2,
+ "title": "Medtronic jumped 3.90%",
+ "summary_lines": [
+  "Trading volume reached 36,561,952 shares, which is 2.7x the 3-month average.",
+  "Medtronic announced preliminary results of the MiniMed Group, Inc. Exchange Offer.",
+  "Medtronic says the MiniMed Stock Exchange Offer was oversubscribed."
+ ],
+ "facts": {
+  "name": "Medtronic plc.",
+  "ticker": "MDT",
+  "country": "US",
+  "currency": "USD",
+  "signal": "spike",
+  "price": 91.93,
+  "change_pct": 3.9,
+  "market_cap": 117591146496.0,
+  "volume": 36561952,
+  "avg_volume_3m": 13548212,
+  "volume_ratio": 2.7,
+  "high_52w": 106.33,
+  "from_high_pct": -13.5,
+  "as_of": "2026-10-12T20:00:02+00:00",
+  "ai_summary": true,
+  "news1_title": "Has Medtronic Stock Become A Different Bet?",
+  "news1_publisher": "Trefis",
+  "news2_title": "Medtronic Says MiniMed Stock Exchange Offer Was Oversubscribed",
+  "news2_publisher": "MT Newswires",
+  "news3_title": "Medtronic Announces Preliminary Results of MiniMed Group, Inc. Exchange Offer",
+  "news3_publisher": "PR Newswire"
+ },
+ "tickers": [
+  "MDT"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/MDT"
+  },
+  {
+   "name": "Trefis",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/medtronic-stock-become-different-bet-171627166.html"
+  },
+  {
+   "name": "MT Newswires",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/medtronic-says-minimed-stock-exchange-132113775.html"
+  },
+  {
+   "name": "PR Newswire",
+   "url": "https://finance.yahoo.com/healthcare/articles/medtronic-announces-preliminary-results-minimed-124500858.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/13/move-mdt",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-12T17:12:48.677270-04:00"
+}
