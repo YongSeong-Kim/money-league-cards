@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "id": "story_20261013_move_034730_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "SK 하루 만에 7.41% 하락, 무슨 일이?",
+ "summary_lines": [
+  "하루 동안 7.41% 하락하며 약 -7%의 변동률을 기록했다.",
+  "베트남 광구서 첫 원유 생산 및 원유층 추가 발견 소식이 전해졌다.",
+  "에너지 공급망 불확실성 속에서 베트남 원유 생산 거점을 확대했다."
+ ],
+ "facts": {
+  "name": "SK",
+  "ticker": "034730",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "drop",
+  "price": 500000.0,
+  "change_pct": -7.41,
+  "market_cap": 27270943080448.0,
+  "volume": 321010,
+  "avg_volume_3m": 168259,
+  "volume_ratio": 1.91,
+  "high_52w": 883000.0,
+  "from_high_pct": -43.4,
+  "as_of": "2026-10-13T06:30:18+00:00",
+  "ai_summary": true,
+  "news1_title": "SK어스온, 베트남 광구서 첫 원유 생산…원유층 추가 발견",
+  "news1_publisher": "더나은미래",
+  "news2_title": "'광주·용인' 동시 건설 검토에 솔리다임 상장까지…바빠진 SK하이닉스",
+  "news2_publisher": "아이뉴스24",
+  "news3_title": "에너지 공급망 불확실성 속 SK어스온, 베트남 원유 생산 거점 확대",
+  "news3_publisher": "한겨레"
+ },
+ "tickers": [
+  "034730.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/034730.KS"
+  },
+  {
+   "name": "더나은미래",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bDV4X0pXM056QkVOcmVXdGRUQ0ZZaFRJaWw0bVhZbnZlbDNsUGFPTV9pMFg1VUpPNHF1QTY1eko5X1FRam5IMHhRYVpXM1Y1WGc?oc=5"
+  },
+  {
+   "name": "아이뉴스24",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWUjhQLXpIMmEzX3VNMFQ5YTMyaDBsYVMwUWM2NmlRS1pMUTVlY2JJQy1QYWFsOHFoVlcxMF85d3lCSjdFZlBaNA?oc=5"
+  },
+  {
+   "name": "한겨레",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xTXJ2SjR5djNIcTVwNXlueXdkZjFnN28xd2MxelJ5UmQ1aWcteEVXYjB6YkJsUzdLQ2JrVlkySzVpSkY0WWVYdkFteV9DMm52RlI0c1pxUmRIZDJRM0o1QjZGY21lYS1ac3VvalpVQ044dw?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/13/move-034730",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-13T16:02:19.139944+09:00"
+}
