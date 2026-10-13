@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "id": "story_20261013_move_000660_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "SK하이닉스 주가 하루 만에 9.65% 하락",
+ "summary_lines": [
+  "하루 동안 9.65% 하락하며 52주 최고가 대비 51.5% 내렸다.",
+  "중국 경쟁 우려 등으로 주가가 추락했다는 소식이 나왔다.",
+  "미국 반도체 R&D 거점 참여 및 본딩 개발 순항 뉴스가 있었다."
+ ],
+ "facts": {
+  "name": "SK하이닉스",
+  "ticker": "000660",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "drop",
+  "price": 1450000.0,
+  "change_pct": -9.65,
+  "market_cap": 1031059512754176.0,
+  "volume": 2600233,
+  "avg_volume_3m": 4407386,
+  "volume_ratio": 0.59,
+  "high_52w": 2987000.0,
+  "from_high_pct": -51.5,
+  "as_of": "2026-10-13T02:48:14+00:00",
+  "ai_summary": true,
+  "news1_title": "반도체·미래차 인재 한자리에…삼성·SK하이닉스 등 산업현장 체험",
+  "news1_publisher": "이투데이",
+  "news2_title": "HBM 수요 폭증 속 삼성전자·SK하이닉스 주가는 왜 추락하나",
+  "news2_publisher": "뉴스프리존",
+  "news3_title": "삼성·SK하이닉스, 6.6조원 규모 美 반도체 R&D 거점 참여…TSMC·인텔도 합류 - 조선비즈",
+  "news3_publisher": "Chosunbiz"
+ },
+ "tickers": [
+  "000660.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+   "name": "이투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSjRBelJJYWNFeE95UHJYOVpjY3YxYUtmQmN2bXJOWHFXcEZQQWpRVFhHZ2N6endHZUZiNnUzbkpDazBFbC0xbGFvLWs4bG9jZjlMQ0VqYjUwbnpxWXJIT0pfZWI1OFhzRXNXLQ?oc=5"
+  },
+  {
+   "name": "뉴스프리존",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MaHRoTXRzNFVCUFBPdVluVmp5N2tJRm5aTVJmenh2UVJTbzhUVjJKRWhLTE8xYnFZUkNIS0JNdGo4VllHMWMxaWFTdHlNS2lJc0RhR0xMald2a29td0M2dDlKcGJFZGIyM3I0SlpDT2NuQW_SAXdBVV95cUxQTHBFd1FBNzZhVHlHTHQzcDZaTWVybFowQ0VZMVMwcVpkUVRVV1oyV2h6QThnUVdLbFVSeHRYd2FHdmdkdndUUW9GZnpJaVJaS3VFTmV2cGVUU1ZYcUpEMHh0aVdHRHVpTWU5d09yRUdKTlFyUWVNOA?oc=5"
+  },
+  {
+   "name": "Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMTR4T3NMc0tlR042cGhHNTJMeUFVRUhBMzlRYnlDbGRYaW1JRHI0bWpqcUZScW83aDF1Skl6OGo2YVFxWVpjVlhmNl9ybnJhTklPQl9rYXl3aVBzcm91QWt3QmdONEF4MVBxckg5NWxMWURuVzA2eFJobXBLOHMwTHB30gGWAUFVX3lxTFB1WnhUaGU0R3l2YzVoU1ZGb3BienVmUTlmREt0ZUVOM3FQV2V4bVZ5QXU3S1FUSnNBZkc1Z2xDd0JOMnpqdURab3JGNkZuUTRac25iM091MFZSZG1RMWpJNmE5cVVfTlo1a2xJV0RyMV8yd1hBSEM2WDAtQ05lT3dBTllWdi10VTViWVppTUppanRXT1VvUQ?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/13/move-000660",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-13T12:08:03.468262+09:00"
+}
