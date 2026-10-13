@@ -1,0 +1,67 @@
+{
+ "schema_version": 1,
+ "id": "story_20261014_move_amat_en",
+ "type": "stock_move",
+ "locale": "en",
+ "importance": 2,
+ "title": "Applied Materials plunges 6.6% in a day",
+ "summary_lines": [
+  "Volume was 0.61x its 3-month average",
+  "It sits 37.1% below its 52-week high"
+ ],
+ "facts": {
+  "name": "Applied Materials",
+  "ticker": "AMAT",
+  "country": "US",
+  "currency": "USD",
+  "signal": "drop",
+  "price": 464.895,
+  "change_pct": -6.56,
+  "market_cap": 368939466752.0,
+  "volume": 4165469,
+  "avg_volume_3m": 6833729,
+  "volume_ratio": 0.61,
+  "high_52w": 739.67,
+  "from_high_pct": -37.1,
+  "as_of": "2026-10-13T16:07:53+00:00",
+  "ai_summary": false,
+  "news1_title": "Is Applied Materials (AMAT) A Bargain Following Its EPIC Center Launch?",
+  "news1_publisher": "Simply Wall St.",
+  "news2_title": "Applied Materials (AMAT) Trades at 39.66 Times Earnings. Can 2027 Growth Carry It?",
+  "news2_publisher": "Insider Monkey",
+  "news3_title": "Applied Materials vs. Advanced Micro Devices: Which Semiconductor Stock Is a Better Buy in 2026?",
+  "news3_publisher": "Motley Fool"
+ },
+ "tickers": [
+  "AMAT"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/AMAT"
+  },
+  {
+   "name": "Simply Wall St.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-bargain-following-141022636.html"
+  },
+  {
+   "name": "Insider Monkey",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-trades-39-121051608.html"
+  },
+  {
+   "name": "Motley Fool",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-vs-advanced-micro-112427664.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/14/move-amat",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-13T12:07:57.205124-04:00"
+}
