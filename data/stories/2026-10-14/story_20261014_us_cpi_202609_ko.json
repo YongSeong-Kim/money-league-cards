@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "id": "story_20261014_us_cpi_202609_ko",
+ "type": "macro_release",
+ "locale": "ko",
+ "importance": 1,
+ "title": "미국 9월 CPI 3.7%, 근원 물가는 2.6%",
+ "summary_lines": [
+  "전달보다는 +0.6% (계절조정)",
+  "근원 물가(식품·에너지 제외) 1년 전 대비 2.6%, 전달 대비 +0.3%",
+  "물가 상승률이 전달 3.4%보다 높아졌다"
+ ],
+ "facts": {
+  "country": "US",
+  "period": "2026년 9월",
+  "released_at": "2026-10-14T08:30:00-04:00",
+  "forecast": null,
+  "indicator_name": "미국 소비자물가(CPI), 1년 전 대비",
+  "unit": "%",
+  "actual": 3.7,
+  "previous": 3.4,
+  "signed": false,
+  "mom": 0.6,
+  "core_yoy": 2.6,
+  "core_mom": 0.3
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Bureau of Labor Statistics",
+   "url": "https://www.bls.gov/cpi/"
+  }
+ ],
+ "web_slug": "/stories/2026/10/14/us-cpi-2026-09",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-14T22:08:16.779886+09:00"
+}
