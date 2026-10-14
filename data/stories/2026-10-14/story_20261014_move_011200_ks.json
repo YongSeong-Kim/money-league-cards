@@ -1,0 +1,67 @@
+{
+ "schema_version": 1,
+ "id": "story_20261014_move_011200_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "HMM 하루 만에 5.90% 상승, 배경은?",
+ "summary_lines": [
+  "거래량이 3개월 평균의 3.19배를 기록하며 크게 증가했다.",
+  "신한투자증권의 목표주가 상향 소식과 함께 해운주가 일제히 강세를 보였다."
+ ],
+ "facts": {
+  "name": "HMM",
+  "ticker": "011200",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "spike",
+  "price": 23350.0,
+  "change_pct": 5.9,
+  "market_cap": 22024606973952.0,
+  "volume": 4051111,
+  "avg_volume_3m": 1269143,
+  "volume_ratio": 3.19,
+  "high_52w": 24950.0,
+  "from_high_pct": -6.4,
+  "as_of": "2026-10-14T06:30:18+00:00",
+  "ai_summary": true,
+  "news1_title": "HMM, 신한투자 매수 상향에 장 초반 5%대 상승",
+  "news1_publisher": "비건뉴스",
+  "news2_title": "해운주 일제히 강세…팬오션 10%대 급등, STX그린로지스·HMM도 상승",
+  "news2_publisher": "CBC뉴스",
+  "news3_title": "랜섬웨어 그룹, HMM 터미널 등 해운·항만업체 38곳 해킹 주장",
+  "news3_publisher": "데일리로그"
+ },
+ "tickers": [
+  "011200.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/011200.KS"
+  },
+  {
+   "name": "비건뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wRk5rejVSUV9hNkZGX09pWU1Rd1dJQk9oRGdIbHNJNUJvVWJvOU91ZllJc183THhReExlUzlnMTUtTTB5N0ttMEUyWkYtNnRFU21YZktjQnhfa2NIRDBhZ2o1VmtRQQ?oc=5"
+  },
+  {
+   "name": "CBC뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ybEt2Zm8xMm1TMHRvTGRBNy1POU9UWElESzdZa2dKZ3g4eTJfb2pRWE1qeFlvMmhScGczN2NKdnIxTmhrVFBBR2VRT1BWMzVVOGFZM216ZlZtbGRwSGVvaS1ESWRvdFl0?oc=5"
+  },
+  {
+   "name": "데일리로그",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aY29FZXlqN0tGY0xVRTdCMlFmZEJOWmZyelJkVUU3d2trdEpmUW1MMms2bTBqazB0M2VxMzlDTFdjRk9veGZaZGN2U3UxbDhVSzE3ZzZMdXRUQjU0WFNXUDNtZkFmeWxqcXc4?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/14/move-011200",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-14T16:08:32.702586+09:00"
+}
