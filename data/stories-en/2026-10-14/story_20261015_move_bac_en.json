@@ -1,0 +1,67 @@
+{
+ "schema_version": 1,
+ "id": "story_20261015_move_bac_en",
+ "type": "stock_move",
+ "locale": "en",
+ "importance": 2,
+ "title": "Big-cap mover: Bank of America down 5.5%",
+ "summary_lines": [
+  "Volume was 1.84x its 3-month average",
+  "It sits 21.9% below its 52-week high"
+ ],
+ "facts": {
+  "name": "Bank of America",
+  "ticker": "BAC",
+  "country": "US",
+  "currency": "USD",
+  "signal": "drop",
+  "price": 50.965,
+  "change_pct": -5.55,
+  "market_cap": 356385423360.0,
+  "volume": 62196631,
+  "avg_volume_3m": 33835162,
+  "volume_ratio": 1.84,
+  "high_52w": 65.23,
+  "from_high_pct": -21.9,
+  "as_of": "2026-10-14T16:07:01+00:00",
+  "ai_summary": false,
+  "news1_title": "CoreWeave, HPE, Dell, Bank of America, Morgan Stanley, Bending Spoons, and More Stocks That Explain Today’s Market",
+  "news1_publisher": "Barrons.com",
+  "news2_title": "Bank of America Fined $1.2 Billion After Failing to Flag $5 Billion of Potential Cartel Money. Its Stock is Sinking.",
+  "news2_publisher": "International Business Times",
+  "news3_title": "Bank of America CEO Attempts to Reassure Skittish Investors as Stock Sinks",
+  "news3_publisher": "Barrons.com"
+ },
+ "tickers": [
+  "BAC"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/BAC"
+  },
+  {
+   "name": "Barrons.com",
+   "url": "https://finance.yahoo.com/m/27fad0cc-71ea-3d54-8330-bbdb6b71d29e/coreweave%2C-hpe%2C-dell%2C-bank-of.html"
+  },
+  {
+   "name": "International Business Times",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-fined-1-2-152011105.html"
+  },
+  {
+   "name": "Barrons.com",
+   "url": "https://finance.yahoo.com/m/876a5e8b-17e9-3b27-8f30-73f7f7ac1b35/bank-of-america-ceo-attempts.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/15/move-bac",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-14T12:08:35.255952-04:00"
+}
