@@ -1,0 +1,45 @@
+{
+ "schema_version": 1,
+ "id": "story_20261014_us_cpi_202609_en",
+ "type": "macro_release",
+ "locale": "en",
+ "importance": 1,
+ "title": "Inflation check: 3.7% in September (up from 3.4%)",
+ "summary_lines": [
+  "Month over month: +0.6% (seasonally adjusted)",
+  "Core CPI (ex food & energy): 2.6% from a year earlier, +0.3% on the month",
+  "Previous month: 3.4% from a year earlier"
+ ],
+ "facts": {
+  "country": "US",
+  "period": "September 2026",
+  "released_at": "2026-10-14T08:30:00-04:00",
+  "forecast": null,
+  "indicator_name": "U.S. CPI inflation, year over year",
+  "unit": "%",
+  "actual": 3.7,
+  "previous": 3.4,
+  "signed": false,
+  "mom": 0.6,
+  "core_yoy": 2.6,
+  "core_mom": 0.3
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Bureau of Labor Statistics",
+   "url": "https://www.bls.gov/cpi/"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/14/us-cpi-2026-09",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-14T22:10:31.055515+09:00"
+}
