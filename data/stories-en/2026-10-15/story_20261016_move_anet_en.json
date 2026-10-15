@@ -1,0 +1,67 @@
+{
+ "schema_version": 1,
+ "id": "story_20261016_move_anet_en",
+ "type": "stock_move",
+ "locale": "en",
+ "importance": 2,
+ "title": "Big-cap mover: Arista Networks down 5.0%",
+ "summary_lines": [
+  "Volume was 1.53x its 3-month average",
+  "It sits 14.7% below its 52-week high"
+ ],
+ "facts": {
+  "name": "Arista Networks",
+  "ticker": "ANET",
+  "country": "US",
+  "currency": "USD",
+  "signal": "drop",
+  "price": 185.55,
+  "change_pct": -5.05,
+  "market_cap": 234020241408.0,
+  "volume": 9222186,
+  "avg_volume_3m": 6009510,
+  "volume_ratio": 1.53,
+  "high_52w": 217.41,
+  "from_high_pct": -14.7,
+  "as_of": "2026-10-15T19:59:59+00:00",
+  "ai_summary": false,
+  "news1_title": "Does Beating The Market Prove Arista Is A Great Company?",
+  "news1_publisher": "Trefis",
+  "news2_title": "If You Invested $1000 in Arista Networks 10 Years Ago, This Is How Much You'd Have Now",
+  "news2_publisher": "Zacks",
+  "news3_title": "BNP Paribas Adjusts Price Target on Arista Networks to $290 From $248",
+  "news3_publisher": "MT Newswires"
+ },
+ "tickers": [
+  "ANET"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/ANET"
+  },
+  {
+   "name": "Trefis",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/does-beating-market-prove-arista-211856467.html"
+  },
+  {
+   "name": "Zacks",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-arista-networks-10-113003540.html"
+  },
+  {
+   "name": "MT Newswires",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-adjusts-price-target-094426545.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/16/move-anet",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-15T16:08:41.645528-04:00"
+}
