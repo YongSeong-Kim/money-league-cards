@@ -1,0 +1,67 @@
+{
+ "schema_version": 1,
+ "id": "story_20261015_move_267260_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "HD현대일렉트릭 주가 10.3% 뚝",
+ "summary_lines": [
+  "거래량이 평소(3개월 평균)의 2.2배였다",
+  "52주 최고가보다 65.9% 낮다"
+ ],
+ "facts": {
+  "name": "HD현대일렉트릭",
+  "ticker": "267260",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "drop",
+  "price": 487000.0,
+  "change_pct": -10.31,
+  "market_cap": 17528447303680.0,
+  "volume": 316067,
+  "avg_volume_3m": 143561,
+  "volume_ratio": 2.2,
+  "high_52w": 1430000.0,
+  "from_high_pct": -65.9,
+  "as_of": "2026-10-15T06:30:20+00:00",
+  "ai_summary": false,
+  "news1_title": "상상인증권 \"HD현대중공업 목표주가 하향, 글로벌 상선 수주 경쟁 심화\"",
+  "news1_publisher": "비즈니스포스트",
+  "news2_title": "HD현대일렉트릭 올해 사상 첫 영업이익 1조 돌파 전망, 대표 연임 성공 김영기 다음 과제는 신사업 육성",
+  "news2_publisher": "비즈니스포스트",
+  "news3_title": "HD현대일렉트릭 주가, 10월 14일 543,000원 3.04% 하락",
+  "news3_publisher": "톱스타뉴스"
+ },
+ "tickers": [
+  "267260.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/267260.KS"
+  },
+  {
+   "name": "비즈니스포스트",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QTmFYajFKM2lTNWx4WlUwZHh5Yi1GLXdJODRWZzJrQTJjdVJSaW50cXIzeEc3M3ZnY0ExZmZUcEd6SGhqMVpBd0k0R2pPR3c1c2N4SVdfcEhPT1dEWW1lS1lqR1puM1pQTGllTkFURnE5dDA?oc=5"
+  },
+  {
+   "name": "비즈니스포스트",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oR3JTZVJxTVl3X2g2SmJrbUN0ZVMwUGlyOGF1Nm56T2N5dzByRURNZ1lkR083N0VfX3hOeC1uak9mclZMalNfUjBaZWs2amRrWTVXa2lJaVU0NmYySGRaTWVPMzNfNGdINlZpTnNkRTJzaGc?oc=5"
+  },
+  {
+   "name": "톱스타뉴스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fcVEyWjBlLTBlcVdZSVFsSnZGZk92T3cxYndtTXNYSFBoTFh1UDR4SVZ6MkFTZWpjZ0hybndMdTQ3SXBRMkwwcFFhQ0pIMEFKNHhxd0VURFNJZUlfOEx5SEFHWTA0VndncU8wa0lndXJzUQ?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/15/move-267260",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-15T16:08:23.047550+09:00"
+}
