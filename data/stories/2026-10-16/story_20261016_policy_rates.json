@@ -1,0 +1,65 @@
+{
+ "schema_version": 1,
+ "id": "story_20261016_policy_rates",
+ "type": "ranking_table",
+ "locale": "ko",
+ "importance": 1,
+ "title": "한국은행 결정 앞두고 보는 주요국 기준금리",
+ "summary_lines": [
+  "한국 3.00%, 미국 3.75~4.00%, 유로존 2.50%",
+  "1년 전보다 한국 +0.50%p, 미국 -0.25%p, 유로존 +0.50%p",
+  "다음 결정: 한국은행 10월 22일, 미국 연준 10월 28일, 유럽중앙은행 10월 29일"
+ ],
+ "facts": {
+  "badge": "기준금리",
+  "cover_question": "한국은행 다음 금리 결정은?",
+  "cover_answer": "10월 22일",
+  "cover_value": 3.0,
+  "cover_value_kind": "rate",
+  "as_of": "2026-10-16",
+  "as_of_suffix": "기준",
+  "col1_label": "지금 금리",
+  "col1_kind": "rate",
+  "col2_label": "1년 전 대비",
+  "col2_kind": "pp",
+  "footnote": "미국은 연준 목표 범위 상단, 유로존은 ECB 예금금리. 결정일은 각 중앙은행 현지 날짜. 출처: 한국은행 ECOS, FRED(연준), ECB Data Portal.",
+  "r1_name": "한국은행",
+  "r1_sub": "마지막 변경 8월 27일 +0.25%p 인상 · 다음 결정 10월 22일",
+  "r1_v1": 3.0,
+  "r1_v2": 0.5,
+  "r2_name": "미국 연준",
+  "r2_sub": "목표 범위 3.75~4.00% · 마지막 변경 9월 17일 +0.25%p 인상 · 다음 결정 10월 28일",
+  "r2_v1": 4.0,
+  "r2_v2": -0.25,
+  "r3_name": "유럽중앙은행",
+  "r3_sub": "마지막 변경 9월 16일 +0.25%p 인상 · 다음 결정 10월 29일",
+  "r3_v1": 2.5,
+  "r3_v2": 0.5
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Bank of Korea ECOS",
+   "url": "https://ecos.bok.or.kr"
+  },
+  {
+   "name": "FRED",
+   "url": "https://fred.stlouisfed.org/series/DFEDTARU"
+  },
+  {
+   "name": "ECB Data Portal",
+   "url": "https://data.ecb.europa.eu"
+  }
+ ],
+ "web_slug": "/stories/2026/10/16/policy-rates",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-16T12:10:03.211027+09:00"
+}
