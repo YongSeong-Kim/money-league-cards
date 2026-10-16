@@ -123,5 +123,13 @@
   "key": "story_20261016_retail_sales_en",
   "instagram": "https://www.instagram.com/p/Dej7iySFv4x/",
   "threads": "17866211508680162"
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "evening",
+  "story_id": "story_20261017_move_mstr_en",
+  "key": "move:MSTR",
+  "instagram": "https://www.instagram.com/p/DekXDNdmjFA/",
+  "threads": "18098954204642391"
  }
 ]
