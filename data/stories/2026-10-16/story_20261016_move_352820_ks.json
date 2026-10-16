@@ -1,0 +1,67 @@
+{
+ "schema_version": 1,
+ "id": "story_20261016_move_352820_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "평소의 2.32배 거래된 하이브, 주가는 +7.1%",
+ "summary_lines": [
+  "거래량이 평소(3개월 평균)의 2.32배였다",
+  "52주 최고가보다 56.4% 낮다"
+ ],
+ "facts": {
+  "name": "하이브",
+  "ticker": "352820",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "spike",
+  "price": 176800.0,
+  "change_pct": 7.09,
+  "market_cap": 7494421708800.0,
+  "volume": 545678,
+  "avg_volume_3m": 234891,
+  "volume_ratio": 2.32,
+  "high_52w": 405500.0,
+  "from_high_pct": -56.4,
+  "as_of": "2026-10-16T06:30:03+00:00",
+  "ai_summary": false,
+  "news1_title": "하이브랩, 베트남 K-뷰티 커머스 플랫폼 ‘애픽’ 론칭",
+  "news1_publisher": "플래텀(Platum)",
+  "news2_title": "[업비트] 하이브달러(HBD) 거래 유의 종목 지정 안내",
+  "news2_publisher": "블루밍비트",
+  "news3_title": "하이브랩, AI 기반 베트남 K-뷰티 플랫폼 '애픽' 론칭",
+  "news3_publisher": "컨슈머타임스"
+ },
+ "tickers": [
+  "352820.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/352820.KS"
+  },
+  {
+   "name": "플래텀(Platum)",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0dWZWVDJsdzF6SkpyV3dLZVFyQW9CMnFydXM0eHdBVUF6SDZMaUYtT1Vlb1RoYXNtUk9xY3ZXWnoxZDM1emszZQ?oc=5"
+  },
+  {
+   "name": "블루밍비트",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xdnB1bmZPTUVVZXpObk8xSkdBWHBoaXhmOE1SYjU0YUNPRTJYcFdVYXZ5Y04wQWpObmN5YmlqNUU0OWdYcGM1cmF5T0IxZDAz?oc=5"
+  },
+  {
+   "name": "컨슈머타임스",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JNmZlM2NoTE1LZ2RYYm9scnJTdENJcTJDcmpvaXl6UXBia2N2cUJxOEVQNmdhNGNOb3RweUI0ODlweVlaeTY1QlM0Qmo5T3ZoY1dkSVAwT25wSmtwRnVTSk5qejFaWTY4dHc?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/16/move-352820",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-16T16:08:54.082847+09:00"
+}
