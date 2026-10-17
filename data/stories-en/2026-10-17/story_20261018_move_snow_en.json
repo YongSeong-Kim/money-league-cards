@@ -1,0 +1,62 @@
+{
+ "schema_version": 1,
+ "id": "story_20261018_move_snow_en",
+ "type": "stock_move",
+ "locale": "en",
+ "importance": 2,
+ "title": "Snowflake sinks 8.43%",
+ "summary_lines": [
+  "No clear news behind it yet.",
+  "Trading reached 1.79x the 3-month average.",
+  "It's now 20.2% below its 52-week high of $384.56."
+ ],
+ "facts": {
+  "name": "Snowflake",
+  "ticker": "SNOW",
+  "country": "US",
+  "currency": "USD",
+  "signal": "drop",
+  "price": 306.84,
+  "change_pct": -8.43,
+  "market_cap": 108253151232.0,
+  "volume": 8768700,
+  "avg_volume_3m": 4891931,
+  "volume_ratio": 1.79,
+  "high_52w": 384.56,
+  "from_high_pct": -20.2,
+  "as_of": "2026-10-16T20:00:02+00:00",
+  "ai_summary": true,
+  "news1_title": "Snowflake, Atlassian, Bandwidth, Five9, and Palo Alto Networks Stocks Trade Down, What You Need To Know",
+  "news1_publisher": "StockStory",
+  "news2_title": "Does The Move In Snowflake Stock Change Anything?",
+  "news2_publisher": "Trefis"
+ },
+ "tickers": [
+  "SNOW"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/SNOW"
+  },
+  {
+   "name": "StockStory",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-atlassian-bandwidth-five9-palo-193939143.html"
+  },
+  {
+   "name": "Trefis",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/does-move-snowflake-stock-change-155407973.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/18/move-snow",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-17T16:08:31.891270-04:00"
+}
