@@ -1,0 +1,51 @@
+{
+ "schema_version": 1,
+ "id": "story_20261018_econ_calendar",
+ "type": "econ_calendar",
+ "locale": "ko",
+ "importance": 1,
+ "title": "이번 주 꼭 볼 발표 1개: 한국은행 기준금리 결정(금통위)",
+ "summary_lines": [
+  "10/22 한국은행 기준금리 결정(금통위)"
+ ],
+ "facts": {
+  "e1_day": "10/20 (화)",
+  "e1_time": "21:30",
+  "e1_name": "미국 주택착공",
+  "e1_period": "2026년 9월",
+  "e1_region": "미국",
+  "e1_key": 2,
+  "e2_day": "10/22 (목)",
+  "e2_time": "10:00",
+  "e2_name": "한국은행 기준금리 결정(금통위)",
+  "e2_region": "한국",
+  "e2_key": 1,
+  "week_label": "10월 19일 ~ 10월 25일",
+  "tz_note": "시간은 모두 한국 시간. 발표 기관 사정으로 바뀔 수 있어요.",
+  "count": 2,
+  "key_count": 1,
+  "as_of": "2026-10-18T16:09:23.623492+09:00"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Census Bureau",
+   "url": null
+  },
+  {
+   "name": "한국은행",
+   "url": null
+  }
+ ],
+ "web_slug": "/stories/2026/10/18/econ-calendar",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-18T16:09:23.623492+09:00"
+}
