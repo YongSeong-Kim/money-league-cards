@@ -1,0 +1,51 @@
+{
+ "schema_version": 1,
+ "id": "story_20261019_econ_calendar_en",
+ "type": "econ_calendar",
+ "locale": "en",
+ "importance": 1,
+ "title": "1 key releases this week: Bank of Korea rate decision",
+ "summary_lines": [
+  "Wed Bank of Korea rate decision"
+ ],
+ "facts": {
+  "e1_day": "Tue, Oct 20",
+  "e1_time": "8:30 AM",
+  "e1_name": "U.S. housing starts",
+  "e1_period": "September 2026",
+  "e1_region": "U.S.",
+  "e1_key": 2,
+  "e2_day": "Wed, Oct 21",
+  "e2_time": "9:00 PM",
+  "e2_name": "Bank of Korea rate decision",
+  "e2_region": "Korea",
+  "e2_key": 1,
+  "week_label": "Oct 19 – Oct 25",
+  "tz_note": "All times Eastern (ET). Dates can change.",
+  "count": 2,
+  "key_count": 1,
+  "as_of": "2026-10-18T16:08:25.253455-04:00"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Census Bureau",
+   "url": null
+  },
+  {
+   "name": "한국은행",
+   "url": null
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/19/econ-calendar",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-18T16:08:25.253455-04:00"
+}
