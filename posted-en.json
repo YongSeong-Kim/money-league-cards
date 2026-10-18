@@ -163,5 +163,13 @@
   "key": "table:weekly_markets_en",
   "instagram": null,
   "threads": "18115000400275128"
+ },
+ {
+  "date": "2026-10-18",
+  "slot": "midday",
+  "story_id": "story_20261018_weekly_news_en",
+  "key": "story_20261018_weekly_news_en",
+  "instagram": null,
+  "threads": "18124091054474806"
  }
 ]

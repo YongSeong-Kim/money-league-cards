@@ -1,0 +1,62 @@
+{
+ "schema_version": 1,
+ "id": "story_20261018_weekly_news_en",
+ "type": "weekly_news",
+ "locale": "en",
+ "importance": 1,
+ "title": "5 money stories you might've missed this week",
+ "summary_lines": [
+  "The Fed is weighing another rate hike",
+  "Trump pauses Russia sanctions, sparking backlash",
+  "Retailers are using AI to change price tags on you"
+ ],
+ "facts": {
+  "week_start": "2026-10-12",
+  "week_end": "2026-10-18",
+  "count": 5,
+  "as_of": "2026-10-18T12:06:52.966644-04:00",
+  "n1_headline": "The Fed is weighing another rate hike",
+  "n1_line": "The Fed is deciding whether to raise interest rates again.",
+  "n1_publishers": 17,
+  "n1_day": "2026-10-18",
+  "n1_weekday": "Sun",
+  "n2_headline": "Trump pauses Russia sanctions, sparking backlash",
+  "n2_line": "Trump is taking up to 60 days to weigh the global impact of Russian sanctions.",
+  "n2_publishers": 10,
+  "n2_day": "2026-10-18",
+  "n2_weekday": "Sun",
+  "n3_headline": "Retailers are using AI to change price tags on you",
+  "n3_line": "US retailers are using AI and personal data to set prices.",
+  "n3_publishers": 5,
+  "n3_day": "2026-10-18",
+  "n3_weekday": "Sun",
+  "n4_headline": "IMF warns of rising risks to the global economy",
+  "n4_line": "The IMF warned that rising risks and an AI bubble could hurt the global economy.",
+  "n4_publishers": 9,
+  "n4_day": "2026-10-18",
+  "n4_weekday": "Sun",
+  "n5_headline": "Meta and Tesla lead a big week of earnings reports",
+  "n5_line": "Meta and Tesla are reporting their latest earnings this week.",
+  "n5_publishers": 9,
+  "n5_day": "2026-10-18",
+  "n5_weekday": "Sun"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Google News",
+   "url": null
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/18/weekly-news",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-18T12:06:52.966644-04:00"
+}
