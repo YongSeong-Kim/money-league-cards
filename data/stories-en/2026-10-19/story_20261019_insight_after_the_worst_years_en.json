@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "id": "story_20261019_insight_after_the_worst_years_en",
+ "type": "insight",
+ "locale": "en",
+ "importance": 1,
+ "title": "After the worst years, what came next?",
+ "summary_lines": [
+  "The S&P 500 has finished the year in the red 30 times since 1928."
+ ],
+ "facts": {
+  "slug": "after-the-worst-years",
+  "web_path": "/en/insights/after-the-worst-years",
+  "post": "The S&P 500 has finished the year in the red 30 times since 1928.\nThe year after, it went up 21 of those 30 times.\n\nJapan's the exception. After the Nikkei fell 38.7% in 1990, it took 34 years to close above its 1989 level.\n\nAnyone else hold through 2022 (-19.4%)?",
+  "reply": "We ran the same numbers for Europe, the UK, Japan and Korea too. Price indexes, dividends not included.",
+  "as_of": "2026-10-19",
+  "s1_big": "30",
+  "s1_label": "Losing years for the S&P 500, 1928–2025 (98 years)",
+  "s1_note": null,
+  "s1_tone": "down",
+  "s2_big": "21/30",
+  "s2_label": "Times it went up the very next year",
+  "s2_note": "Median next-year return +16.8%",
+  "s2_tone": "up",
+  "s3_big": "34 yrs",
+  "s3_label": "How long the Nikkei took to get back to its 1989 level after 1990",
+  "s3_note": "It fell 38.7% in 1990. Averages aren't promises.",
+  "s3_tone": "down"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": null
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/19/insight-after-the-worst-years",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-19T16:12:59.899775-04:00"
+}
