@@ -1,0 +1,48 @@
+{
+ "schema_version": 1,
+ "id": "story_20261019_insight_after_the_worst_years",
+ "type": "insight",
+ "locale": "ko",
+ "importance": 1,
+ "title": "최악의 해, 다음 해에는?",
+ "summary_lines": [
+  "S&P 500은 1928년부터 98년 중 30번 떨어진 해로 끝났어요."
+ ],
+ "facts": {
+  "slug": "after-the-worst-years",
+  "web_path": "/insights/after-the-worst-years",
+  "post": "S&P 500은 1928년부터 98년 중 30번 떨어진 해로 끝났어요.\n그다음 해엔 30번 중 21번 올랐고요.\n\n근데 닛케이는 1990년에 38.7% 빠지고 1989년 수준으로 돌아오는 데 34년 걸렸어요.\n\n2022년(-19.4%)에 안 팔고 버틴 분 있어요?",
+  "reply": "유럽·영국·일본·한국 지수도 같은 방식으로 계산해 뒀어요. 가격 지수라 배당은 빠져 있어요.",
+  "as_of": "2026-10-19",
+  "s1_big": "30번",
+  "s1_label": "S&P 500이 떨어진 해 (1928~2025, 98년)",
+  "s1_note": null,
+  "s1_tone": "down",
+  "s2_big": "21/30",
+  "s2_label": "떨어진 바로 다음 해에 오른 횟수",
+  "s2_note": "다음 해 수익률 중간값 +16.8%",
+  "s2_tone": "up",
+  "s3_big": "34년",
+  "s3_label": "닛케이가 1990년 폭락 뒤 1989년 말 수준을 되찾기까지",
+  "s3_note": "1990년 -38.7%. 평균이 내 계좌를 보장하진 않아요.",
+  "s3_tone": "down"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": null
+  }
+ ],
+ "web_slug": "/stories/2026/10/19/insight-after-the-worst-years",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-19T16:09:47.263025+09:00"
+}
