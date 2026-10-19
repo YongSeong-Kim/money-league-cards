@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "id": "story_20261019_scale_amzn_sbux_en",
+ "type": "scale_compare",
+ "locale": "en",
+ "importance": 2,
+ "title": "Amazon added more in one day than all of Starbucks is worth",
+ "summary_lines": [
+  "Amazon added $137B in market value on Monday (+5.07%)",
+  "All of Starbucks is worth $111B",
+  "That's 1.2x the whole of Starbucks, in one day"
+ ],
+ "facts": {
+  "subject_label": "Amazon's one-day gain",
+  "subject_symbol": "AMZN",
+  "subject_value": 136719112909.10214,
+  "object_label": "All of Starbucks",
+  "object_symbol": "SBUX",
+  "object_value": 111452102656.0,
+  "currency": "USD",
+  "direction": "up",
+  "change_pct": 5.07,
+  "as_of": "2026-10-19T16:08:42+00:00"
+ },
+ "tickers": [
+  "AMZN",
+  "SBUX"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": null
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/19/scale-amzn-sbux",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-19T12:08:22.742988-04:00"
+}
