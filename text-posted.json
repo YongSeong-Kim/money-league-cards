@@ -4,5 +4,11 @@
   "kind": "basics",
   "key": "currency",
   "threads": "18388104313224534"
+ },
+ {
+  "date": "2026-10-20",
+  "kind": "fact",
+  "key": "ten_years_ago",
+  "threads": "18468257509138459"
  }
 ]
