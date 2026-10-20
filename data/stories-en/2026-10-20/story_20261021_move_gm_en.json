@@ -1,0 +1,67 @@
+{
+ "schema_version": 1,
+ "id": "story_20261021_move_gm_en",
+ "type": "stock_move",
+ "locale": "en",
+ "importance": 2,
+ "title": "General Motors sinks 6.83% as commodity costs rise",
+ "summary_lines": [
+  "Reports say solid results were overshadowed by a jump in commodity costs.",
+  "Trading was 3.11x the 3-month average."
+ ],
+ "facts": {
+  "name": "General Motors",
+  "ticker": "GM",
+  "country": "US",
+  "currency": "USD",
+  "signal": "drop",
+  "price": 77.1,
+  "change_pct": -6.83,
+  "market_cap": 67651510272.0,
+  "volume": 21145267,
+  "avg_volume_3m": 6795615,
+  "volume_ratio": 3.11,
+  "high_52w": 91.85,
+  "from_high_pct": -16.1,
+  "as_of": "2026-10-20T19:59:59+00:00",
+  "ai_summary": true,
+  "news1_title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+  "news1_publisher": "TechCrunch",
+  "news2_title": "Why General Motors (GM) Stock Is Nosediving",
+  "news2_publisher": "StockStory",
+  "news3_title": "General Motors: 3 Key Takeaways for Long-Term Investors",
+  "news3_publisher": "Motley Fool"
+ },
+ "tickers": [
+  "GM"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/GM"
+  },
+  {
+   "name": "TechCrunch",
+   "url": "https://finance.yahoo.com/technology/articles/gm-close-detroit-battery-assembly-193243258.html"
+  },
+  {
+   "name": "StockStory",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-general-motors-gm-stock-192550998.html"
+  },
+  {
+   "name": "Motley Fool",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-3-key-takeaways-185952907.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/21/move-gm",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-20T16:08:18.160175-04:00"
+}
