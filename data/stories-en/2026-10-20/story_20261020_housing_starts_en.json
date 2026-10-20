@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "id": "story_20261020_housing_starts_en",
+ "type": "macro_release",
+ "locale": "en",
+ "importance": 2,
+ "title": "Housing starts dropped in September",
+ "summary_lines": [
+  "Privately-owned housing starts fell to an annual rate of 1221000 in September.",
+  "That is 5.2 percent below the revised August estimate of 1288000."
+ ],
+ "facts": {
+  "indicator_name": "Housing starts, month over month",
+  "country": "US",
+  "period": "September 2026",
+  "unit": "%",
+  "actual": -5.2,
+  "previous": -5.9,
+  "forecast": null,
+  "signed": true,
+  "released_at": "2026-10-20T08:30:00-04:00"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Census Bureau",
+   "url": "https://www.census.gov/construction/nrc/index.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/20/housing-starts",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-20T12:08:21.583815-04:00"
+}

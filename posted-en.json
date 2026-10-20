@@ -211,5 +211,13 @@
   "key": "story_20261020_morning_brief_en",
   "instagram": null,
   "threads": "17888410383621890"
+ },
+ {
+  "date": "2026-10-20",
+  "slot": "midday",
+  "story_id": "story_20261020_housing_starts_en",
+  "key": "story_20261020_housing_starts_en",
+  "instagram": "https://www.instagram.com/p/DeuO2DBl2xW/",
+  "threads": "18056427935653097"
  }
 ]
