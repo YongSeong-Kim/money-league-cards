@@ -1,0 +1,53 @@
+{
+ "schema_version": 1,
+ "id": "story_20261019_earnings_064350",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "현대로템 7~9월 잠정실적: 100원 팔아 영업이익 15원",
+ "summary_lines": [
+  "매출 1.6조 원 (작년보다 +0.1%)",
+  "영업이익 2,471억 원 (작년보다 -11%), 영업이익률 17% → 15%",
+  "순이익 1,780억 원 (작년보다 -10%)"
+ ],
+ "facts": {
+  "company": "현대로템",
+  "ticker": "064350",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-10-19",
+  "as_of": "2026-10-19",
+  "revenue": 1620700000000.0,
+  "opex": 1373626000000.0,
+  "operating": 247074000000.0,
+  "opex_items": "",
+  "net": 177984000000.0,
+  "prev_revenue": 1619635000000.0,
+  "prev_operating": 277743000000.0,
+  "prev_net": 198375000000.0
+ },
+ "tickers": [
+  "064350.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800217"
+  }
+ ],
+ "web_slug": "/stories/2026/10/19/earnings-064350",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-20T12:08:31.337943+09:00"
+}
