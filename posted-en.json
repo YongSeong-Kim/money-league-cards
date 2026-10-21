@@ -237,5 +237,15 @@
   "instagram": "https://www.instagram.com/p/DewKw4dIBov/",
   "threads": "18178229854452993",
   "poll": "18128703968493318"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "midday",
+  "story_id": "story_20261022_index_kospi_en",
+  "key": "move:^KS11",
+  "instagram": "https://www.instagram.com/reel/DewzogwgXKX/",
+  "threads": "18131405248747871",
+  "cover_photo": true,
+  "reel": "https://www.instagram.com/reel/DewzogwgXKX/"
  }
 ]
