@@ -1,0 +1,56 @@
+{
+ "schema_version": 1,
+ "id": "story_20261020_earnings_rtx_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "RTX FY2026 Q3: $13 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $25.0B (+11% y/y)",
+  "Operating income $3.3B (+32% y/y), margin 11% -> 13%",
+  "Net income $2.6B (+35% y/y)"
+ ],
+ "facts": {
+  "company": "RTX",
+  "ticker": "RTX",
+  "fiscal": "FY2026 Q3",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-20",
+  "as_of": "2026-10-20",
+  "revenue": 24965000000.0,
+  "opex": 21628000000.0,
+  "operating": 3337000000.0,
+  "net": 2583000000.0,
+  "opex_items": "",
+  "web_path": "/en/earnings/rtx",
+  "prev_revenue": 22478000000.0,
+  "prev_operating": 2523000000.0,
+  "prev_net": 1918000000.0,
+  "cover_photo": "https://images.unsplash.com/photo-1724755191709-7ed1a7953757?ixid=M3wxMTA4MzQzfDB8MXxzZWFyY2h8OXx8ZmlnaHRlciUyMGpldHxlbnwxfDF8fHwxNzkyNTk1MTI3fDA&ixlib=rb-4.1.0&w=1080&h=1350&fit=crop&crop=entropy&q=85&fm=jpg",
+  "cover_source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-blue-sky-amJv5jceA8s",
+  "cover_track": "https://api.unsplash.com/photos/amJv5jceA8s/download?ixid=M3wxMTA4MzQzfDB8MXxzZWFyY2h8OXx8ZmlnaHRlciUyMGpldHxlbnwxfDF8fHwxNzkyNTk1MTI3fDA",
+  "cover_credit": "Photo: Tom Photography / Unsplash"
+ },
+ "tickers": [
+  "RTX"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=101829&type=10-Q"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/20/earnings-rtx",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-21T16:08:35.290924-04:00"
+}
