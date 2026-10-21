@@ -1,0 +1,52 @@
+{
+ "schema_version": 1,
+ "id": "story_20261020_earnings_rtx",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "RTX 7~9월 실적: 100달러 팔아 영업이익 13달러",
+ "summary_lines": [
+  "매출 250억 달러 (작년보다 +11%)",
+  "영업이익 33억 달러 (작년보다 +32%), 영업이익률 11% → 13%",
+  "순이익 26억 달러 (작년보다 +35%)"
+ ],
+ "facts": {
+  "company": "RTX",
+  "ticker": "RTX",
+  "fiscal": "FY2026 Q3",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-20",
+  "as_of": "2026-10-20",
+  "revenue": 24965000000.0,
+  "opex": 21628000000.0,
+  "operating": 3337000000.0,
+  "net": 2583000000.0,
+  "opex_items": "",
+  "web_path": "/earnings/rtx",
+  "prev_revenue": 22478000000.0,
+  "prev_operating": 2523000000.0,
+  "prev_net": 1918000000.0
+ },
+ "tickers": [
+  "RTX"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC 제출 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=101829&type=10-Q"
+  }
+ ],
+ "web_slug": "/stories/2026/10/20/earnings-rtx",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-21T12:08:24.616033+09:00"
+}
