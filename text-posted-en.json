@@ -10,5 +10,11 @@
   "kind": "fact",
   "key": "ten_years_ago",
   "threads": "18132779083668382"
+ },
+ {
+  "date": "2026-10-21",
+  "kind": "basics",
+  "key": "best_days",
+  "threads": "18155244478564543"
  }
 ]
