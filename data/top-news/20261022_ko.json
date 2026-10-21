@@ -1,0 +1,214 @@
+{
+ "as_of": "2026-10-22T06:09:50.899140+09:00",
+ "locale": "ko",
+ "items": [
+  {
+   "score": 47.0,
+   "title": "[뉴욕증시] 스페이스X 타고 날았다…나스닥 1%↑",
+   "publisher": "연합인포맥스",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDWWY1VUp5YlNXdVpoc1NmN2wzUFVHeXdPbUhGOFl5eWZCaFB5ckhBbURRQkx6NUJZbnA0Z29iblNLY1lmZkEwaktRY0NRZVE5WWRkTVZ0ZFZvRWVmSk1MNnh2ZEZ3TnJRUzdFcklSeG8?oc=5",
+   "publishers": [
+    "연합인포맥스",
+    "연합뉴스TV",
+    "마켓인",
+    "뉴스핌",
+    "뉴시스",
+    "문화일보",
+    "IT조선",
+    "연합뉴스",
+    "아시아경제",
+    "글로벌이코노믹",
+    "YTN",
+    "블루밍비트",
+    "MTN 머니투데이방송",
+    "TopStarNews",
+    "뉴스웍스",
+    "Chosunbiz",
+    "코인리더스",
+    "뉴스1"
+   ],
+   "titles": [
+    "[뉴욕증시] 스페이스X 타고 날았다…나스닥 1%↑",
+    "뉴욕증시, 스페이스X 호실적에 상승 마감…나스닥 1.1%↑",
+    "스페이스X 호재에 AI주 반등…나스닥 1% 상승",
+    "[글로벌 마켓 리포트 10월 21일]",
+    "뉴욕증시, 기술주 강세에 일제히 상승 마감…나스닥 1.05%↑",
+    "[속보]다우·S&P500 상승 마감…테슬라 1.5%↑",
+    "AI 투자 우려 재부각… 나스닥 약보합",
+    "뉴욕증시, 스페이스X 실적에 AI 불안 잠재우며 상승 출발"
+   ],
+   "feeds": [
+    "business",
+    "q:실적",
+    "q:증시",
+    "q:환율",
+    "top"
+   ],
+   "headline": "스페이스X 호실적에 뉴욕증시 상승 마감",
+   "lines": [
+    "스페이스X 실적 호조와 기술주 강세로 뉴욕증시가 일제히 상승했다.",
+    "나스닥 지수가 1% 이상 오르는 등 시장에 긍정적인 영향을 미쳤다."
+   ]
+  },
+  {
+   "score": 38.3,
+   "title": "AI 기업 호실적에 삼전닉스 7% 급등…코스피 '매수 사이드카'",
+   "publisher": "한국경제",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UTUs2Qkp5azVHSUs1dFM4czhWWnk2Z01nX19MNXZNd2Z2bVRpeHNfZDRUbVhiN2dGMXhJUmtXNVVFaUtFcTYwbzYzZXd1cTFIU19QR1FaV040Zw?oc=5",
+   "publishers": [
+    "한국경제",
+    "네이버 프리미엄콘텐츠",
+    "YTN",
+    "매일경제 마켓",
+    "연합뉴스",
+    "연합인포맥스",
+    "MBC 뉴스",
+    "뉴스핌",
+    "DealSite경제TV",
+    "포커스온경제",
+    "뉴스1",
+    "조선일보"
+   ],
+   "titles": [
+    "AI 기업 호실적에 삼전닉스 7% 급등…코스피 '매수 사이드카'",
+    "[마감시황] 10/21 반도체 랠리에 코스피 5,735.66(+3.29%)",
+    "'삼전닉스 쌍끌이'에 증시 반등...\"AI 투심 개선\"",
+    "코스피, 반도체주 반등에 3.3% 강세 마감…코스닥도 1.4% 올라",
+    "코스피 일단 반등했지만…'폭락→급등' 널뛰기에 '불안' 지속(종합)",
+    "[증시-마감] 코스피 3.3% 급반등해 5,735…'삼전닉스' 6%↑",
+    "오늘의 증시",
+    "[일본 증시] 닛케이, AI·반도체주 강세에 3일 만에 반등...0.85%↑"
+   ],
+   "feeds": [
+    "business",
+    "q:경제",
+    "q:증시",
+    "top"
+   ],
+   "headline": "코스피 반도체주 반등에 3.3% 상승 마감",
+   "lines": [
+    "AI 기업의 호실적과 반도체주 강세로 코스피가 3.3% 급반등했다.",
+    "증시가 널뛰기를 보이며 투자자들의 불안이 지속된다는 보도가 나왔다."
+   ]
+  },
+  {
+   "score": 35.7,
+   "title": "원/달러 환율 4거래일 연속 연저점 기록…1,320원대 초반",
+   "publisher": "연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45M2RERnpOZ2Q0OU9nNXlmaW93VkV5b3dUMGwtSnZZQlhRdTk2XzhLbUlUS3hsSkUtNWE3dmtDa3h6dmFVU1FSUkswYjZfenJJWDU1VkR1cDh0dWvSAWBBVV95cUxOSGZEU3pTNWV1bi1Bd3NrS2lXcTJwQm1CMmlYN2F1di1KQTBBb1dsdU03bXhwRlNUSk9mNUJMYVpvbDVIZG1qZWFXSzBiNXFDMFZZMS1oWXdLT1BpY3pKR0Q?oc=5",
+   "publishers": [
+    "연합뉴스",
+    "MBC 뉴스",
+    "연합인포맥스",
+    "머니투데이",
+    "베타뉴스",
+    "뉴스핌",
+    "경제타임스",
+    "산경투데이",
+    "뉴시스",
+    "서울경제",
+    "news.sbs.co.kr",
+    "SBS Biz",
+    "파이낸셜뉴스",
+    "데일리안",
+    "이데일리",
+    "라디오코리아"
+   ],
+   "titles": [
+    "원/달러 환율 4거래일 연속 연저점 기록…1,320원대 초반",
+    "원 달러 환율 4거래일 연속 올해 최저치 경신‥1,325원까지 내려",
+    "달러-원, 뉴욕장서 1,320원 중반대 거래 |",
+    "원/달러 환율 1325.2원…4거래일 연속 연저점 경신 - 머니투데이",
+    "원·달러 환율, 2.9원 내린 1325.2원 마감...나흘재 연저점, 2년만에 '최저치'",
+    "달러/원 환율 1325.2원 마감…종가 기준 연저점 경신",
+    "반도체 호조에 달러 쏟아졌다…환율 1320원대 추락",
+    "반도체 수출 호조에 원·달러 환율 4일째 연저점…1,325원대 하락"
+   ],
+   "feeds": [
+    "q:환율"
+   ],
+   "headline": "원·달러 환율 4거래일 연속 연저점 경신",
+   "lines": [
+    "원·달러 환율이 4거래일 연속 올해 최저치를 경신하며 1325.2원에 마감했다.",
+    "반도체 수출 호조로 달러가 쏟아져 환율 하락에 영향을 줬다는 보도가 나왔다."
+   ]
+  },
+  {
+   "score": 27.6,
+   "title": "오늘 한은 금통위 기준금리 결정…‘동결’ 전망 우세",
+   "publisher": "KBS 뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BNDlTV2xUSGJodlVRQzFTM3hBREJLUDVYODF0M1lHSTYwaWpLcm51UWRnRzlnbHNZMllyX01Hbm5FN1N4OTMwVU5WODZNVnNib1FHbUpLM2QyNVE?oc=5",
+   "publishers": [
+    "KBS 뉴스",
+    "연합뉴스",
+    "이데일리TV",
+    "연합인포맥스",
+    "노컷뉴스",
+    "연합뉴스TV",
+    "한국금융신문",
+    "뉴스1",
+    "전파신문",
+    "뉴시스",
+    "www.dt.co.kr",
+    "조세금융신문"
+   ],
+   "titles": [
+    "오늘 한은 금통위 기준금리 결정…‘동결’ 전망 우세",
+    "한은 '매파적 동결' 유력…내달 인상 재개 신호 주목",
+    "숨고르는 금통위…‘호미'의 효과 점검할 시간 더 필요",
+    "배준영 \"한은, 추가 금리 인상 원점에서 재검토해야\"",
+    "오늘 금통위…'매파적 동결' 후 11월 인상?",
+    "한은 금통위, 오늘 기준금리 결정…동결 무게",
+    "오늘(22일) 10월 한은 금통위…기준금리 동결 전망 우세",
+    "오늘 금통위, 기준금리 연 3% 동결 무게…'11월 인상' 신호에 촉각"
+   ],
+   "feeds": [
+    "business",
+    "q:금리"
+   ],
+   "headline": "오늘 한국은행 금통위 기준금리 결정",
+   "lines": [
+    "오늘 열리는 한국은행 금통위에서 기준금리를 결정한다.",
+    "기준금리 동결 전망이 우세한 가운데 11월 인상 신호에 촉각을 곤두세우고 있다."
+   ]
+  },
+  {
+   "score": 23.1,
+   "title": "[환율 전망] 증시 조정에도 역외 달러 매도 추세는 지속",
+   "publisher": "KB Think",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DaWJ0THNEeVhzSndta3NZYU9YODh2SXJmZXNjUXdVa0xtNTdsc2ZyN3VyQU1pUExhMGdJeXd4Nm04czQzZ0VaaHVwbnpTTm9aWFpMalJBYWtQNGh3ZG03Tw?oc=5",
+   "publishers": [
+    "KB Think",
+    "연합뉴스",
+    "마켓인",
+    "연합인포맥스",
+    "Chosunbiz",
+    "한경매거진",
+    "서울신문",
+    "뉴스클레임",
+    "뉴스1",
+    "뉴시스",
+    "데일리바이트(DAILY BYTE)"
+   ],
+   "titles": [
+    "[환율 전망] 증시 조정에도 역외 달러 매도 추세는 지속",
+    "떨어지는 원/달러 환율, 환전소 앞 북적북적",
+    "달러값 급락에…기업은 사고 외국인은 팔았다",
+    "[외환] '역대급 수출'에 4거래일째 연저점…1,320원대 중후반서 금통위 대기",
+    "iM證 “원화 강세에도 코스피 급락…외국인 200조 순매도 부담” - 조선비즈",
+    "[속보]원·달러 환율 '뚝'",
+    "떨어지는 환율, 코스피는 상승",
+    "달러 약세 속 원·달러 환율 1324원대"
+   ],
+   "feeds": [
+    "business",
+    "q:환율"
+   ],
+   "headline": "원·달러 환율 급락과 증시 흐름",
+   "lines": [
+    "원·달러 환율이 떨어지며 1320원대 중후반에서 움직이고 있다.",
+    "달러값 급락 속에 기업은 매수하고 외국인은 순매도하며 증시가 엇갈린 반응을 보이고 있다."
+   ]
+  }
+ ]
+}
