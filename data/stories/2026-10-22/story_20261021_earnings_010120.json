@@ -1,0 +1,53 @@
+{
+ "schema_version": 1,
+ "id": "story_20261021_earnings_010120",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "엘에스일렉트릭 7~9월 잠정실적: 100원 팔아 영업이익 12원",
+ "summary_lines": [
+  "매출 1.9조 원 (작년보다 +54%)",
+  "영업이익 2,335억 원 (작년보다 +132%), 영업이익률 8.3% → 12%",
+  "순이익 1,428억 원 (작년보다 +117%)"
+ ],
+ "facts": {
+  "company": "엘에스일렉트릭",
+  "ticker": "010120",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-10-21",
+  "as_of": "2026-10-21",
+  "revenue": 1877789000000.0,
+  "opex": 1644246000000.0,
+  "operating": 233543000000.0,
+  "opex_items": "",
+  "net": 142828000000.0,
+  "prev_revenue": 1216295000000.0,
+  "prev_operating": 100791000000.0,
+  "prev_net": 65892000000.0
+ },
+ "tickers": [
+  "010120.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800151"
+  }
+ ],
+ "web_slug": "/stories/2026/10/21/earnings-010120",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-22T12:08:15.605281+09:00"
+}
