@@ -28,5 +28,11 @@
   "kind": "basics",
   "key": "real_rate",
   "threads": "17887961859687212"
+ },
+ {
+  "date": "2026-10-22",
+  "kind": "fact",
+  "key": "worst_year_next",
+  "threads": "18106211285196163"
  }
 ]
