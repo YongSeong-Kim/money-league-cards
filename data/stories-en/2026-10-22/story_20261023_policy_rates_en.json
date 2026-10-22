@@ -1,0 +1,65 @@
+{
+ "schema_version": 1,
+ "id": "story_20261023_policy_rates_en",
+ "type": "ranking_table",
+ "locale": "en",
+ "importance": 1,
+ "title": "Federal Reserve decides on Oct 28: where rates stand",
+ "summary_lines": [
+  "U.S. 3.75–4.00%, Euro area 2.50%, Korea 3.00%",
+  "Change over 1 year: U.S. -0.25 pp, Euro area +0.50 pp, Korea +0.50 pp",
+  "Next decisions: Federal Reserve Oct 28, ECB Oct 29, Bank of Korea Nov 26"
+ ],
+ "facts": {
+  "badge": "Policy rates",
+  "cover_question": "The Fed's next rate call?",
+  "cover_answer": "Oct 28",
+  "cover_value": 4.0,
+  "cover_value_kind": "rate",
+  "as_of": "2026-10-22",
+  "as_of_suffix": "data",
+  "col1_label": "Now",
+  "col1_kind": "rate",
+  "col2_label": "vs 1 yr ago",
+  "col2_kind": "pp",
+  "footnote": "U.S. = top of the Fed funds target range, euro area = ECB deposit facility rate. Decision dates are local. Sources: Bank of Korea ECOS, FRED (Federal Reserve), ECB Data Portal.",
+  "r1_name": "Federal Reserve",
+  "r1_sub": "Target range 3.75–4.00% · Last move Sep 17 +0.25 pp hike · Next decision Oct 28",
+  "r1_v1": 4.0,
+  "r1_v2": -0.25,
+  "r2_name": "ECB",
+  "r2_sub": "Last move Sep 16 +0.25 pp hike · Next decision Oct 29",
+  "r2_v1": 2.5,
+  "r2_v2": 0.5,
+  "r3_name": "Bank of Korea",
+  "r3_sub": "Last move Aug 27 +0.25 pp hike · Next decision Nov 26",
+  "r3_v1": 3.0,
+  "r3_v2": 0.5
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Bank of Korea ECOS",
+   "url": "https://ecos.bok.or.kr"
+  },
+  {
+   "name": "FRED",
+   "url": "https://fred.stlouisfed.org/series/DFEDTARU"
+  },
+  {
+   "name": "ECB Data Portal",
+   "url": "https://data.ecb.europa.eu"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/23/policy-rates",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-22T12:12:29.443111-04:00"
+}
