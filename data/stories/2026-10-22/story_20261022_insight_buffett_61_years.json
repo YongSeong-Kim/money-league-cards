@@ -1,0 +1,52 @@
+{
+ "schema_version": 1,
+ "id": "story_20261022_insight_buffett_61_years",
+ "type": "insight",
+ "locale": "ko",
+ "importance": 1,
+ "title": "버핏도 진 해가 있다",
+ "summary_lines": [
+  "버핏도 61년 중 21년은 S&P 500한테 졌어요."
+ ],
+ "facts": {
+  "slug": "buffett-61-years",
+  "web_path": "/insights/buffett-61-years",
+  "post": "버핏도 61년 중 21년은 S&P 500한테 졌어요.\n1999년엔 시장이 21.0% 오를 때 버크셔는 19.9% 빠졌고요.\n\n그래도 1964년 말에 1,000달러 넣었으면 2025년 말 약 6,099만 달러예요.\n\n몇 년째 시장보다 못해서 흔들린 적 있어요?",
+  "reply": "해마다 성적과 10년씩 끊어 본 표는 여기 정리해 뒀어요. 버크셔 주주서한에 실린 숫자 그대로예요.",
+  "as_of": "2026-10-22",
+  "s1_big": "40/61",
+  "s1_label": "버크셔가 S&P 500을 이긴 해 (1965~2025)",
+  "s1_note": "나머지 21년은 졌어요",
+  "s1_tone": "accent",
+  "s2_big": "11번",
+  "s2_label": "버크셔 주가가 아예 떨어진 해",
+  "s2_note": "최악은 1974년 -48.7%",
+  "s2_tone": "down",
+  "s3_big": "-19.9%",
+  "s3_label": "1999년 버크셔. 같은 해 S&P 500은 +21.0%",
+  "s3_note": "다음 해엔 버크셔 +26.6%, S&P 500 -9.1%",
+  "s3_tone": "down",
+  "s4_big": "6,099만 달러",
+  "s4_label": "1964년 말 버크셔에 1,000달러를 넣었다면",
+  "s4_note": "S&P 500은 461,610달러 (서한 기준, 세금 전)",
+  "s4_tone": "up"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Berkshire Hathaway 2025 Shareholder Letter",
+   "url": "https://www.berkshirehathaway.com/letters/2025ltr.pdf"
+  }
+ ],
+ "web_slug": "/stories/2026/10/22/insight-buffett-61-years",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-22T16:10:46.823364+09:00"
+}
