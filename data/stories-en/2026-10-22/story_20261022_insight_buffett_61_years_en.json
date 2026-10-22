@@ -1,0 +1,52 @@
+{
+ "schema_version": 1,
+ "id": "story_20261022_insight_buffett_61_years_en",
+ "type": "insight",
+ "locale": "en",
+ "importance": 1,
+ "title": "Even Buffett had losing years",
+ "summary_lines": [
+  "Buffett lost to the S&P 500 in 21 of 61 years."
+ ],
+ "facts": {
+  "slug": "buffett-61-years",
+  "web_path": "/en/insights/buffett-61-years",
+  "post": "Buffett lost to the S&P 500 in 21 of 61 years.\nIn 1999 the market gained 21.0% and Berkshire fell 19.9%.\n\n$1,000 in Berkshire at the end of 1964 was about $61.0 million by the end of 2025.\n\nEver held something that lagged for years?",
+  "reply": "Every year side by side, plus ten-year stretches, straight from Berkshire's own scorecard.",
+  "as_of": "2026-10-22",
+  "s1_big": "40/61",
+  "s1_label": "Years Berkshire beat the S&P 500, 1965–2025",
+  "s1_note": "It trailed in the other 21",
+  "s1_tone": "accent",
+  "s2_big": "11",
+  "s2_label": "Years Berkshire stock fell outright",
+  "s2_note": "Worst: 1974, -48.7%",
+  "s2_tone": "down",
+  "s3_big": "-19.9%",
+  "s3_label": "Berkshire in 1999, while the S&P 500 did +21.0%",
+  "s3_note": "The next year: Berkshire +26.6%, S&P 500 -9.1%",
+  "s3_tone": "down",
+  "s4_big": "$61.0M",
+  "s4_label": "$1,000 in Berkshire at the end of 1964",
+  "s4_note": "Same $1,000 in the S&P 500: $461,610 (letter's figures, before taxes)",
+  "s4_tone": "up"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Berkshire Hathaway 2025 Shareholder Letter",
+   "url": "https://www.berkshirehathaway.com/letters/2025ltr.pdf"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/22/insight-buffett-61-years",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-22T16:11:33.916419-04:00"
+}
