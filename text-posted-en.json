@@ -16,5 +16,11 @@
   "kind": "basics",
   "key": "best_days",
   "threads": "18155244478564543"
+ },
+ {
+  "date": "2026-10-21",
+  "kind": "fact",
+  "key": "nikkei_wait",
+  "threads": "18130630849744628"
  }
 ]
