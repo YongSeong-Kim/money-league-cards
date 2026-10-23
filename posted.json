@@ -302,5 +302,15 @@
   "key": "story_20261023_morning_brief_ko",
   "instagram": "https://www.instagram.com/p/Dez7HkEjY63/",
   "threads": "18128531080852244"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "midday",
+  "story_id": "story_20261023_index_kospi",
+  "key": "move:^KS11",
+  "instagram": "https://www.instagram.com/p/De0j-D4DEhN/",
+  "threads": "18627860077051336",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/De0kCKfHWTN/"
  }
 ]
