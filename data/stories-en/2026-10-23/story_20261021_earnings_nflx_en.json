@@ -1,0 +1,62 @@
+{
+ "schema_version": 1,
+ "id": "story_20261021_earnings_nflx_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "Netflix FY2026 Q3: $35 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $12.9B (+12% y/y)",
+  "Operating income $4.5B (+37% y/y), margin 28% -> 35%",
+  "Net income $3.7B (+44% y/y)"
+ ],
+ "facts": {
+  "company": "Netflix",
+  "ticker": "NFLX",
+  "fiscal": "FY2026 Q3",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-21",
+  "as_of": "2026-10-21",
+  "revenue": 12874176000.0,
+  "cost": 6079016000.0,
+  "gross": 6795160000.0,
+  "opex": 2336560000.0,
+  "operating": 4458600000.0,
+  "net": 3663927000.0,
+  "opex_items": "rd,sm,ga",
+  "web_path": "/en/earnings/nflx",
+  "opex_rd": 1033142000.0,
+  "opex_sm": 837051000.0,
+  "opex_ga": 466367000.0,
+  "prev_revenue": 11510307000.0,
+  "prev_gross": 5346057000.0,
+  "prev_operating": 3248247000.0,
+  "prev_net": 2546916000.0,
+  "cover_photo": "https://images.unsplash.com/photo-1565035010268-a3816f98589a?ixid=M3wxMTA4MzQzfDB8MXxzZWFyY2h8Mnx8Y29uY2VydCUyMGNyb3dkJTIwbGlnaHRzfGVufDF8MXx8fDE3OTI1OTUxNDl8MA&ixlib=rb-4.1.0&w=1080&h=1350&fit=crop&crop=entropy&q=85&fm=jpg",
+  "cover_source": "https://unsplash.com/photos/people-watching-band-on-the-stage-So6YckShOVA",
+  "cover_track": "https://api.unsplash.com/photos/So6YckShOVA/download?ixid=M3wxMTA4MzQzfDB8MXxzZWFyY2h8Mnx8Y29uY2VydCUyMGNyb3dkJTIwbGlnaHRzfGVufDF8MXx8fDE3OTI1OTUxNDl8MA",
+  "cover_credit": "Photo: Tijs van Leur / Unsplash"
+ },
+ "tickers": [
+  "NFLX"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1065280&type=10-Q"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/21/earnings-nflx",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-23T12:08:35.180923-04:00"
+}
