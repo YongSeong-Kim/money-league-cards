@@ -1,0 +1,57 @@
+{
+ "schema_version": 1,
+ "id": "story_20261022_earnings_lrcx_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "Lam Research FY2027 Q1: $40 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $8.2B (+54% y/y)",
+  "Operating income $3.3B (+80% y/y), margin 34% -> 40%",
+  "Net income $2.8B (+76% y/y)"
+ ],
+ "facts": {
+  "company": "Lam Research",
+  "ticker": "LRCX",
+  "fiscal": "FY2027 Q1",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-27",
+  "form": "10-Q",
+  "filed": "2026-10-22",
+  "as_of": "2026-10-22",
+  "revenue": 8219418000.0,
+  "cost": 3920565000.0,
+  "gross": 4298853000.0,
+  "opex": 1015126000.0,
+  "operating": 3283727000.0,
+  "net": 2753138000.0,
+  "opex_items": "rd,sga",
+  "web_path": "/en/earnings/lrcx",
+  "opex_rd": 666398000.0,
+  "opex_sga": 348728000.0,
+  "prev_revenue": 5324173000.0,
+  "prev_gross": 2684879000.0,
+  "prev_operating": 1829088000.0,
+  "prev_net": 1568660000.0
+ },
+ "tickers": [
+  "LRCX"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=707549&type=10-Q"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/22/earnings-lrcx",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-23T16:08:34.665830-04:00"
+}
