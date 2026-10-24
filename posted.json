@@ -349,5 +349,14 @@
   "threads": "18143194219613813",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/De3kdX0DXzN/"
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "morning",
+  "story_id": "story_20261025_policy_rates",
+  "key": "table:policy_rates",
+  "instagram": "https://www.instagram.com/p/De5E43mDFzp/",
+  "threads": null,
+  "reel": "https://www.instagram.com/reel/De5E-AYCnt0/"
  }
 ]
