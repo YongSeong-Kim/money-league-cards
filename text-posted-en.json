@@ -46,5 +46,11 @@
   "kind": "fact",
   "key": "big_down_days",
   "threads": "18098239895223458"
+ },
+ {
+  "date": "2026-10-24",
+  "kind": "basics",
+  "key": "inflation",
+  "threads": "17938191111126669"
  }
 ]
