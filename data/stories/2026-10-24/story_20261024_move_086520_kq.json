@@ -1,0 +1,67 @@
+{
+ "schema_version": 1,
+ "id": "story_20261024_move_086520_kq",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "에코프로 5.8% 빠졌다, 무슨 일?",
+ "summary_lines": [
+  "거래량이 평소(3개월 평균)의 1.09배였다",
+  "52주 최고가보다 61.7% 낮다"
+ ],
+ "facts": {
+  "name": "에코프로",
+  "ticker": "086520",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "drop",
+  "price": 72700.0,
+  "change_pct": -5.83,
+  "market_cap": 9848376786944.0,
+  "volume": 885423,
+  "avg_volume_3m": 810400,
+  "volume_ratio": 1.09,
+  "high_52w": 190000.0,
+  "from_high_pct": -61.7,
+  "as_of": "2026-10-23T06:30:16+00:00",
+  "ai_summary": false,
+  "news1_title": "“에코프로 매도” 2차전지 깐 男…“40% 오를것” 돌변한 근거",
+  "news1_publisher": "중앙일보",
+  "news2_title": "10월 3주차 에코프로비엠 주가 9만원대 하락 마감",
+  "news2_publisher": "중앙이코노미뉴스",
+  "news3_title": "에코프로 주가 5거래일간 약세 지속",
+  "news3_publisher": "톱스타뉴스"
+ },
+ "tickers": [
+  "086520.KQ"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/086520.KQ"
+  },
+  {
+   "name": "중앙일보",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Cb0RYeUNQSjQwMThlZFJ4MV9VdHFWdGN0eW1NeXZmQWJzaWJDVVc2cnliZTFQa0FLUkktdXhUdUdWNE5wMHdoQzk5RFh4UUdRVmJUR1d3?oc=5"
+  },
+  {
+   "name": "중앙이코노미뉴스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nVEVOeXRFX0hwNS1ycTBjeWhCbTFsUFN6YkJVdERFTURTU005ME1QR1F1OXRoR3l0M1lFMVBwSkd5UnNEQ3ltSVNVUF9HV255U0VZc1JzamFmT3ZSdTZuQllwVllsZ2Q0blFZczNmQTZFZw?oc=5"
+  },
+  {
+   "name": "톱스타뉴스",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14VjdUdkFLZ2Vab2thRWVGWUVpYjh3LXBPR25MWkstY0VIeU40ZVBTQkhJZ2NHTzRSTi1BVm95NUwwMHZEX3JqUVR4WGljaXlkdDFDbmRPNjB4TlVnVS1iZ2l5VUhKMVl5Y0hyVlF0T2NiZw?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/24/move-086520",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-24T16:08:36.629024+09:00"
+}
