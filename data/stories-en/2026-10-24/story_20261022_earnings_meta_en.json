@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "id": "story_20261022_earnings_meta_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "Meta FY2026 Q3: $20 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $64.6B (+26% y/y)",
+  "Operating income $13.0B (-37% y/y), margin 40% -> 20%",
+  "Net income $9.9B (+264% y/y)"
+ ],
+ "facts": {
+  "company": "Meta",
+  "ticker": "META",
+  "fiscal": "FY2026 Q3",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-22",
+  "as_of": "2026-10-22",
+  "revenue": 64601000000.0,
+  "cost": 13369000000.0,
+  "gross": 51232000000.0,
+  "opex": 38244000000.0,
+  "operating": 12988000000.0,
+  "net": 9860000000.0,
+  "opex_items": "rd,sm,ga",
+  "web_path": "/en/earnings/meta",
+  "opex_rd": 20054000000.0,
+  "opex_sm": 3333000000.0,
+  "opex_ga": 14857000000.0,
+  "prev_revenue": 51242000000.0,
+  "prev_gross": 42036000000.0,
+  "prev_operating": 20535000000.0,
+  "prev_net": 2709000000.0
+ },
+ "tickers": [
+  "META"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1326801&type=10-Q"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/22/earnings-meta",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-24T16:08:36.035049-04:00"
+}
