@@ -40,5 +40,11 @@
   "kind": "basics",
   "key": "drops_are_normal",
   "threads": "18087634940704126"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "fact",
+  "key": "big_down_days",
+  "threads": "18098239895223458"
  }
 ]
