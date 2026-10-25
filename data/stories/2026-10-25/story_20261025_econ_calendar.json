@@ -1,0 +1,84 @@
+{
+ "schema_version": 1,
+ "id": "story_20261025_econ_calendar",
+ "type": "econ_calendar",
+ "locale": "ko",
+ "importance": 1,
+ "title": "이번 주 꼭 볼 발표 4개: 미국 FOMC 금리 결정, 미국 GDP(국내총생산)",
+ "summary_lines": [
+  "10/29 미국 FOMC 금리 결정",
+  "10/29 미국 GDP(국내총생산)",
+  "10/29 미국 PCE 물가·소비"
+ ],
+ "facts": {
+  "e1_day": "10/27 (화)",
+  "e1_time": "21:30",
+  "e1_name": "미국 내구재 주문",
+  "e1_period": "2026년 9월",
+  "e1_region": "미국",
+  "e1_key": 2,
+  "e2_day": "10/27 (화)",
+  "e2_time": "23:00",
+  "e2_name": "미국 신규주택판매",
+  "e2_period": "2026년 9월",
+  "e2_region": "미국",
+  "e2_key": 2,
+  "e3_day": "10/29 (목)",
+  "e3_time": "03:00",
+  "e3_name": "미국 FOMC 금리 결정",
+  "e3_region": "미국",
+  "e3_key": 1,
+  "e4_day": "10/29 (목)",
+  "e4_time": "21:30",
+  "e4_name": "미국 GDP(국내총생산)",
+  "e4_period": "2026년 3분기",
+  "e4_region": "미국",
+  "e4_key": 1,
+  "e5_day": "10/29 (목)",
+  "e5_time": "21:30",
+  "e5_name": "미국 PCE 물가·소비",
+  "e5_period": "2026년 9월",
+  "e5_region": "미국",
+  "e5_key": 1,
+  "e6_day": "10/29 (목)",
+  "e6_time": "22:15",
+  "e6_name": "ECB(유럽중앙은행) 금리 결정",
+  "e6_region": "유럽",
+  "e6_key": 1,
+  "week_label": "10월 26일 ~ 11월 1일",
+  "tz_note": "시간은 모두 한국 시간. 발표 기관 사정으로 바뀔 수 있어요.",
+  "count": 6,
+  "key_count": 4,
+  "as_of": "2026-10-25T16:09:52.657786+09:00"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "BEA",
+   "url": null
+  },
+  {
+   "name": "European Central Bank",
+   "url": null
+  },
+  {
+   "name": "Federal Reserve",
+   "url": null
+  },
+  {
+   "name": "U.S. Census Bureau",
+   "url": null
+  }
+ ],
+ "web_slug": "/stories/2026/10/25/econ-calendar",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-25T16:09:52.657786+09:00"
+}

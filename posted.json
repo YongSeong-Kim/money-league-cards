@@ -367,5 +367,14 @@
   "instagram": "https://www.instagram.com/p/De5tfr9F0BT/",
   "threads": null,
   "reel": "https://www.instagram.com/reel/De5tj9Okt2u/"
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "evening",
+  "story_id": "story_20261025_econ_calendar",
+  "key": "story_20261025_econ_calendar",
+  "instagram": "https://www.instagram.com/p/De6I9PVl-l3/",
+  "threads": "18108592475243828",
+  "design": "v1"
  }
 ]
