@@ -52,5 +52,11 @@
   "kind": "basics",
   "key": "inflation",
   "threads": "17938191111126669"
+ },
+ {
+  "date": "2026-10-25",
+  "kind": "basics",
+  "key": "compounding",
+  "threads": "17988889494084021"
  }
 ]
