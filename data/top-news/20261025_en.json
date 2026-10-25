@@ -1,171 +1,172 @@
 {
- "as_of": "2026-10-25T00:35:58.496058-04:00",
+ "as_of": "2026-10-25T06:09:24.133196-04:00",
  "locale": "en",
  "items": [
   {
-   "score": 25.3,
-   "title": "Attention, Passengers: High Airfares May Be Here to Stay",
+   "score": 30.9,
+   "title": "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
    "publisher": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1ZlVsb2RORGJJaTBOMURlREpMV3Q1SDdOY3Q1cTI5LXRuTmhpNDZDeXQ0VHpPLUZmenFUOXRQNEV2R2hZTEpTOUZwZ1dZN0lja1Fpb3UtYWlUSFdqU1AybHY0LW1Od3AzWjBmenQ2OXZKWS0wMlVQSnQxUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
    "publishers": [
     "The New York Times",
-    "CNBC",
-    "Yahoo Finance",
-    "Reuters",
-    "Fox Business",
-    "The Washington Post"
+    "BBC",
+    "Al Jazeera",
+    "CNN",
+    "RTE.ie",
+    "WMUR",
+    "CBS News",
+    "Investing.com",
+    "Yahoo",
+    "The Business Standard",
+    "Chosunbiz",
+    "Modern Ghana"
    ],
    "titles": [
-    "Attention, Passengers: High Airfares May Be Here to Stay",
-    "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "Why your plane ticket might not get cheaper even if fuel prices fall",
-    "US airlines favor higher fares over fuller planes as fuel costs squeeze profits",
-    "American Airlines says airfares could stay elevated even if fuel prices drop",
-    "Voters angry about high prices may get little relief from the next Congress"
+    "Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail",
+    "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+    "Obama slams Trump for years of ‘chaos and cruelty’ while stumping for Democrats in Michigan, Ohio",
+    "Obama blasts Trump while campaigning for US midterms",
+    "Top issues for NH voters ahead of midterms",
+    "Small businesses struggling with inflation amid Trump tariffs ahead of midterms",
+    "Obama attacks Trump over inflation as Democrats fight for Michigan Senate seat"
    ],
    "feeds": [
-    "business",
     "q:economy",
-    "q:inflation"
+    "q:inflation",
+    "top"
    ],
-   "headline": "High airfares might be here to stay",
+   "headline": "Obama attacks Trump while campaigning for midterms",
    "lines": [
-    "Airlines favor higher fares over fuller planes as fuel costs squeeze profits.",
-    "Passengers face expensive tickets even if fuel prices fall."
+    "Obama slammed Trump and Ramaswamy during campaign stops in Michigan and Ohio.",
+    "He's stumping for Democrats as voters head to the midterms."
    ]
   },
   {
-   "score": 23.5,
+   "score": 24.3,
    "title": "Chart of the Week: French government and corporate bond yields are converging",
    "publisher": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEwtYnR3b0xGWTl5V29OaTd1c0RiaHBQZkpfMzNsVUpGNllFYVpHMzRsN2toZ09mVDJMR2F5NDMyNDhEbUJvcWNvXzIyLW5DYS0xMmx0bTBIU2NRc2M0RUFiTDNLbm42djN0RC1EOGQzcC1kX0Ziei1GYmdGbGdXY0R3Yzc?oc=5",
    "publishers": [
     "Financial Times",
     "CNBC",
+    "The New York Times",
     "WSJ",
     "Reuters",
-    "Yahoo Finance",
     "Yardeni QuickTakes",
-    "Fox News"
+    "Fox News",
+    "AFR"
    ],
    "titles": [
     "Chart of the Week: French government and corporate bond yields are converging",
     "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+    "A Debt-Fueled “Doom Loop”",
     "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
     "Euro sinks on French debt worries, yen gains for week on AI rout",
-    "LVMH, Kering and Hermès shares fall as France riots damage 3,000 shops and bond yields surge to 2002 highs",
     "ECONOMIC WEEK AHEAD: October 26-30",
-    "Paris protests erupt over French economy"
-   ],
-   "feeds": [
-    "business",
-    "q:economy",
-    "q:inflation"
-   ],
-   "headline": "French bond yields surge and luxury stocks drop",
-   "lines": [
-    "French government bond yields hit 2002 highs as riots rattle markets.",
-    "LVMH, Kering, and Hermès shares fall while the euro sinks."
-   ]
-  },
-  {
-   "score": 22.8,
-   "title": "Audi to Build Factory in Georgia, Trump Says",
-   "publisher": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzRuM0NZODNTYlVUeWRIY3pkY2s2d1k1Y3F4TTlXUEpiazNfbHpWa3BwUTRENzdmZUFUS0ZFNDVHMG5FLWhkcGF5WjlOUlc3eVJ5ZFhfemNJVVVWVjFNN3htQUpNWWwxUFdyTWxWd0dYenN2Mm9ubGdmRTdRS010dA?oc=5",
-   "publishers": [
-    "The New York Times",
-    "WSJ",
-    "Yahoo",
-    "FOX 5 Atlanta",
-    "The Atlanta Journal-Constitution",
-    "The Japan Times"
-   ],
-   "titles": [
-    "Audi to Build Factory in Georgia, Trump Says",
-    "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
-    "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state",
-    "Audi to invest $4B in Georgia for first US auto plant",
-    "Audi to build Georgia factory near Macon",
-    "Trump defends tariffs at rally as he says Audi to build U.S. plant"
-   ],
-   "feeds": [
-    "business",
-    "q:economy",
-    "top"
-   ],
-   "headline": "Audi is building its first US factory in Georgia",
-   "lines": [
-    "Trump announced that Audi will build a new auto plant in Georgia.",
-    "Reports say the project is a 4 billion dollar investment near Macon."
-   ]
-  },
-  {
-   "score": 20.4,
-   "title": "Stock Market News, Oct. 23, 2026: Dow Slides as Oil Prices Climb to Highest in Five Months",
-   "publisher": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVdOTmZOSm56YVBnLW5NcjFJa2NTeGVpeGhvdmF4cG5ETjhEU0owdTlfVHhLY0Q2VUt5aXFqczdiY2NOcHQwWmFMQU9jM3F3MzYxcGVjNnlVQ3dOZUo0dEx6QlpiLXlOOWpaclB2T0wwbXpUZ3RhTlhZX1BOZ0pfZU84Qm95Q28?oc=5",
-   "publishers": [
-    "WSJ",
-    "CNBC",
-    "Yahoo Finance",
-    "Bloomberg.com",
-    "Investor's Business Daily",
-    "AFR"
-   ],
-   "titles": [
-    "Stock Market News, Oct. 23, 2026: Dow Slides as Oil Prices Climb to Highest in Five Months",
-    "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
-    "Stocks Pulled in Two Directions, Fall to End Volatile Week",
-    "Stock market today: Dow, S&P 500 drop, Nasdaq rises after sharp tech sell-off",
-    "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
-    "Stock Market Action Plan: A Preelection Week Primer",
+    "Paris protests erupt over French economy",
     "ASX to fall after oil resurgence ahead of huge week for investors"
    ],
    "feeds": [
     "business",
-    "q:inflation",
-    "q:stock market"
-   ],
-   "headline": "Dow slides as oil prices climb",
-   "lines": [
-    "The Dow dropped more than 600 points as oil prices hit a five month high.",
-    "Stocks fell to end a volatile week across most sectors."
-   ]
-  },
-  {
-   "score": 19.6,
-   "title": "Economy: Inflation, earnings reports fill busy week",
-   "publisher": "The Journal Gazette",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdW5seXVRLTVnS19kRTN2VHZyQ0xFQ2tzM3ZRbDVXYjAzNzJRR2ZNbUxvbEJuSUJjNVdTLTUxTDE0ZmZReUZjTDJjSnd3QUpyamNsVmtHVXMwZjQzbWpTdkhKUGd0R0tFY3Rlbi1IendFSEU2UGdzMVdMTEpLNXNQd2YwZWhyODNHVEItR1dWazQ0M2k1aVBaS2oxcTh2emF4c2xyZzFyekZSYnVFcW1GcjFjbFZ6Ui1SbDZpUktDR0RnaE5wN2d0OG9YbFUyenJPa3Y3NVhTUkt2enJw?oc=5",
-   "publishers": [
-    "The Journal Gazette",
-    "AP News",
-    "Seeking Alpha",
-    "Henry Herald",
-    "The Transylvania Times",
-    "Cherokee Tribune",
-    "Ottumwa Courier"
-   ],
-   "titles": [
-    "Economy: Inflation, earnings reports fill busy week",
-    "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-    "The Federal Reserve At A Time Of Uncertainty",
-    "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-    "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-    "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-    "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week"
-   ],
-   "feeds": [
-    "q:Federal Reserve",
-    "q:earnings",
     "q:economy",
     "q:inflation"
    ],
-   "headline": "Inflation and earnings fill the week",
+   "headline": "French bond yields converge as riots rattle markets",
    "lines": [
-    "Inflation and earnings reports are filling up a busy week.",
-    "Consumer mood and the Federal Reserve are also in focus."
+    "French government and corporate bond yields converge while protests erupt in Paris.",
+    "The euro sinks on debt worries as markets face more unrest."
+   ]
+  },
+  {
+   "score": 21.9,
+   "title": "France's latest debt warning describes a country where governance is breaking down",
+   "publisher": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0Y2aXgxVkJXaXl6QlR5RXRtZHZSREZZM25vTlRYcS1jN2xwNFkxZnRpV2FBYkZiYlRsMG9kdnlCZFpDUUloVTF0N2xZTy01N1lVTDZLazJUU0xOeERpc2xTaFFRNmV0aVVuYVBILXNHVVpzRjRpSldNejF2LTM3YkpnTWlWNENMb0dadERCbmpCUmNBSXVpREgtajNDSzNUTkNZRzRBSmwxbkFnTC1ESlhnbVhaeVRuWi1jUGJvVQ?oc=5",
+   "publishers": [
+    "Fortune",
+    "CNBC",
+    "Reuters",
+    "Financial Times",
+    "The New York Times",
+    "CNN"
+   ],
+   "titles": [
+    "France's latest debt warning describes a country where governance is breaking down",
+    "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
+    "France spared Moody's ratings downgrade as it struggles with unrest",
+    "France avoids downgrade from Moody’s in boost for Macron’s government",
+    "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
+    "Is France a warning sign for America’s economy?"
+   ],
+   "feeds": [
+    "business",
+    "q:economy"
+   ],
+   "headline": "France avoids Moody's downgrade",
+   "lines": [
+    "France just dodged a debt rating downgrade from Moody's.",
+    "It's dodging a hit while the country deals with rising yields and turmoil."
+   ]
+  },
+  {
+   "score": 20.4,
+   "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state",
+   "publisher": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5",
+   "publishers": [
+    "AP News",
+    "WSJ",
+    "Automotive News",
+    "FOX 5 Atlanta",
+    "Bloomberg.com"
+   ],
+   "titles": [
+    "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state",
+    "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
+    "Audi to invest $4 billion for Georgia assembly plant to build SUVs",
+    "Audi to invest $4B in Georgia for first US auto plant",
+    "Volkswagen Plans New Audi Plant in Georgia, Handing Trump a Win"
+   ],
+   "feeds": [
+    "business",
+    "top"
+   ],
+   "headline": "Audi builds its first US factory in Georgia",
+   "lines": [
+    "Audi plans a $4 billion investment for a new auto and SUV assembly plant in Georgia.",
+    "The move gives Trump a campaign win as tariffs bite."
+   ]
+  },
+  {
+   "score": 19.1,
+   "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+   "publisher": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5",
+   "publishers": [
+    "CNBC",
+    "Yahoo Finance",
+    "Bloomberg.com",
+    "The Telegraph",
+    "WSJ",
+    "The Washington Post"
+   ],
+   "titles": [
+    "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+    "Jensen Huang Says AI Demand Is \"Off the Charts.\" The Money to Pay for It Isn't",
+    "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up",
+    "Tech stocks fall as Nvidia boss warns of AI funding slowdown",
+    "Jensen Huang Says Demand for Neoclouds Is ‘Off the Charts.’ Here’s What to Know.",
+    "This is what you should pay for first when money is tight"
+   ],
+   "feeds": [
+    "business",
+    "q:economy"
+   ],
+   "headline": "Nvidia faces an AI funding test",
+   "lines": [
+    "Jensen Huang says AI demand is off the charts but funding isn't.",
+    "Tech stocks fall as the boss warns of a slowdown."
    ]
   }
  ]
