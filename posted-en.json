@@ -334,5 +334,14 @@
   "instagram": null,
   "threads": "18072897539751939",
   "cover_photo": false
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "morning",
+  "story_id": "story_20261025_korea_weekly_en",
+  "key": "table:korea_weekly_en",
+  "instagram": "https://www.instagram.com/p/De6d0sYF-yJ/",
+  "threads": "18129446437877510",
+  "design": "v2"
  }
 ]
