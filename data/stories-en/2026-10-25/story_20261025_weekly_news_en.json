@@ -1,0 +1,63 @@
+{
+ "schema_version": 1,
+ "id": "story_20261025_weekly_news_en",
+ "type": "weekly_news",
+ "locale": "en",
+ "importance": 1,
+ "title": "5 money stories you might've missed this week",
+ "summary_lines": [
+  "China economy grew 4.5% in third quarter",
+  "Stock futures rebound after tech selloff",
+  "US mortgage rates drop for the first time in months"
+ ],
+ "facts": {
+  "week_start": "2026-10-19",
+  "week_end": "2026-10-25",
+  "count": 5,
+  "as_of": "2026-10-25T12:16:11.700057-04:00",
+  "n1_headline": "China economy grew 4.5% in third quarter",
+  "n1_line": "China reported 4.5% third quarter growth driven by strong exports.",
+  "n1_publishers": 46,
+  "n1_day": "2026-10-19",
+  "n1_weekday": "Mon",
+  "n2_headline": "Stock futures rebound after tech selloff",
+  "n2_line": "Stock futures are rising ahead of a busy earnings week.",
+  "n2_publishers": 31,
+  "n2_day": "2026-10-19",
+  "n2_weekday": "Mon",
+  "n3_headline": "US mortgage rates drop for the first time in months",
+  "n3_line": "Average long-term US mortgage rates eased to 7.32% in their first pullback since late August.",
+  "n3_publishers": 29,
+  "n3_day": "2026-10-23",
+  "n3_weekday": "Fri",
+  "n4_headline": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+  "n4_line": "",
+  "n4_publishers": 17,
+  "n4_day": "2026-10-23",
+  "n4_weekday": "Fri",
+  "n5_headline": "High mortgage rates freeze the housing market",
+  "n5_line": "Mortgage rates stay above 7 percent and home sales slow down.",
+  "n5_publishers": 41,
+  "n5_day": "2026-10-21",
+  "n5_weekday": "Wed",
+  "design": "v2"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Google News",
+   "url": null
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/25/weekly-news",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-25T12:16:11.700057-04:00"
+}
