@@ -1,0 +1,62 @@
+{
+ "schema_version": 1,
+ "id": "story_20261025_weekly_news",
+ "type": "weekly_news",
+ "locale": "ko",
+ "importance": 1,
+ "title": "바빠서 못 본 이번 주 경제 뉴스 5개",
+ "summary_lines": [
+  "한국은행, 기준금리 3% 동결",
+  "원·달러 환율 2년 만에 최저치 및 연저점 경신",
+  "중동 긴장과 유가 급등에 뉴욕증시 약세"
+ ],
+ "facts": {
+  "week_start": "2026-10-19",
+  "week_end": "2026-10-25",
+  "count": 5,
+  "as_of": "2026-10-25T12:10:11.803316+09:00",
+  "n1_headline": "한국은행, 기준금리 3% 동결",
+  "n1_line": "한국은행이 이번 기준금리를 3%로 동결했다.",
+  "n1_publishers": 35,
+  "n1_day": "2026-10-23",
+  "n1_weekday": "금요일",
+  "n2_headline": "원·달러 환율 2년 만에 최저치 및 연저점 경신",
+  "n2_line": "달러 대비 원화 환율이 1,320원대로 떨어지며 2년 만에 최저치와 연저점을 경신했다.",
+  "n2_publishers": 55,
+  "n2_day": "2026-10-20",
+  "n2_weekday": "화요일",
+  "n3_headline": "중동 긴장과 유가 급등에 뉴욕증시 약세",
+  "n3_line": "중동 긴장 고조와 유가 급등, AI 투자 부담으로 뉴욕증시와 기술주가 하락했다.",
+  "n3_publishers": 31,
+  "n3_day": "2026-10-25",
+  "n3_weekday": "일요일",
+  "n4_headline": "이 대통령, 증시 저평가 진단에 정상화 조치 검토",
+  "n4_line": "이 대통령은 한국 주식시장이 매우 저평가됐다며 조만간 정상화 조치를 취하겠다고 밝혔다.",
+  "n4_publishers": 21,
+  "n4_day": "2026-10-20",
+  "n4_weekday": "화요일",
+  "n5_headline": "코스피 1%대 반등해 5,768.01로 마감",
+  "n5_line": "코스피가 1.76% 반등해 5,768.01로 마감하며 5700선을 회복했다.",
+  "n5_publishers": 15,
+  "n5_day": "2026-10-20",
+  "n5_weekday": "화요일"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Google News",
+   "url": null
+  }
+ ],
+ "web_slug": "/stories/2026/10/25/weekly-news",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-25T12:10:11.803316+09:00"
+}
