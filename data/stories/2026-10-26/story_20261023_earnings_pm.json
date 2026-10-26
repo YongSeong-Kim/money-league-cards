@@ -1,0 +1,56 @@
+{
+ "schema_version": 1,
+ "id": "story_20261023_earnings_pm",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "필립모리스 7~9월 실적: 100달러 팔아 영업이익 43달러",
+ "summary_lines": [
+  "매출 114억 달러 (작년보다 +5%)",
+  "영업이익 49억 달러 (작년보다 +14%), 영업이익률 39% → 43%",
+  "순이익 33억 달러 (작년보다 -5%)"
+ ],
+ "facts": {
+  "company": "필립모리스",
+  "ticker": "PM",
+  "fiscal": "FY2026 Q3",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-23",
+  "as_of": "2026-10-23",
+  "revenue": 11438000000.0,
+  "cost": 3584000000.0,
+  "gross": 7854000000.0,
+  "opex": 2988000000.0,
+  "operating": 4866000000.0,
+  "net": 3313000000.0,
+  "opex_items": "",
+  "web_path": "/earnings/pm",
+  "prev_revenue": 10845000000.0,
+  "prev_gross": 7361000000.0,
+  "prev_operating": 4263000000.0,
+  "prev_net": 3478000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "PM"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC 제출 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1413329&type=10-Q"
+  }
+ ],
+ "web_slug": "/stories/2026/10/23/earnings-pm",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-26T12:08:20.052059+09:00"
+}
