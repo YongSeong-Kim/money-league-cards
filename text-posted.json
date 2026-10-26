@@ -52,5 +52,11 @@
   "kind": "basics",
   "key": "inflation",
   "threads": "18089432609275698"
+ },
+ {
+  "date": "2026-10-26",
+  "kind": "basics",
+  "key": "mortgage",
+  "threads": "17990116449058779"
  }
 ]
