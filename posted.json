@@ -396,5 +396,16 @@
   "design": "v2",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/De8SdXgjCZt/"
+ },
+ {
+  "date": "2026-10-26",
+  "slot": "evening",
+  "story_id": "story_20261026_index_kosdaq",
+  "key": "move:^KQ11",
+  "instagram": "https://www.instagram.com/p/De8uUjglOv8/",
+  "threads": "17872795116643042",
+  "design": "v2",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/De8uc0ICeSp/"
  }
 ]

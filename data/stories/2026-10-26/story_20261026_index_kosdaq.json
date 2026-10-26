@@ -1,0 +1,71 @@
+{
+ "schema_version": 1,
+ "id": "story_20261026_index_kosdaq",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 1,
+ "title": "코스닥 -3.26%, 크게 흔들린 하루",
+ "summary_lines": [
+  "2000년 이후 하루 하락폭으로 224번째",
+  "3거래일 연속 하락",
+  "52주 최고치보다 40.7% 낮다"
+ ],
+ "facts": {
+  "name": "코스닥",
+  "ticker": "KOSDAQ",
+  "country": "KR",
+  "currency": "PTS",
+  "signal": "index",
+  "price": 727.21,
+  "prev_close": 751.69,
+  "change_pct": -3.26,
+  "since": "2026-10-22",
+  "since_label": null,
+  "rank": 224,
+  "history_start": "2000-10-16",
+  "streak": 3,
+  "high_52w": 1226.18,
+  "from_high_pct": -40.7,
+  "as_of": "2026-10-26T15:30:00+09:00",
+  "ai_summary": false,
+  "news1_title": "코스피, 1%대 내려 5,400선…코스닥 3%↓",
+  "news1_publisher": "연합뉴스TV",
+  "news2_title": "[증시-마감] 코스피, 외인 매도 속 5,500선 하회…코스닥 3%대 밀려",
+  "news2_publisher": "연합인포맥스",
+  "news3_title": "속보 코스피, 1%대 하락해 5,400선 마감...코스닥 3.26% ↓",
+  "news3_publisher": "YTN",
+  "design": "v2"
+ },
+ "tickers": [
+  "^KQ11"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/^KQ11"
+  },
+  {
+   "name": "연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTmZpT3dnSzFDT2JTOTFZeUN2RXU2UHVWYWxOUzJqRjFMRU5BQ01BQ2s2SXJBUzE0bzNjdDNPZFhGV3FHYmlIb2FXQjM5cUptXzBFQjdRbVBSVFcwWTNMczhEbFJCU0E?oc=5"
+  },
+  {
+   "name": "연합인포맥스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XX1E4RHRpOGJtTUJTX0dOWkE5NFdBNzJmUi1FdXI4bHBoZEtreXlhdjVUaUtQRXlGUERfWnctY0dSUHFqblhVdjBKRXJ2R0hzZGtIbFBiSzZHQkRVWmlTbmU1ZWJvdjBCRVR6TEktWVA?oc=5"
+  },
+  {
+   "name": "YTN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tcFBkQ1dkSGRrd2loT0ZYRkVQOF9wQXVwUUwzVnhDYTA4V3Jwd1p6ajdfMzAyclZHbmdNN05ST0E1ZVhmb0JYRkVoU3hKUXZoNzdOMFgzSEtYY0hvUGc?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/26/index-kosdaq",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-26T16:12:18.051818+09:00"
+}
