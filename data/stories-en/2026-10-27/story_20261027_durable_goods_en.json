@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "id": "story_20261027_durable_goods_en",
+ "type": "macro_release",
+ "locale": "en",
+ "importance": 2,
+ "title": "Durable goods orders rose in September",
+ "summary_lines": [
+  "New orders for manufactured durable goods increased for the month.",
+  "The total reached $345.4 billion."
+ ],
+ "facts": {
+  "indicator_name": "Durable goods orders, month over month",
+  "country": "US",
+  "period": "September 2026",
+  "unit": "%",
+  "actual": 1.8,
+  "previous": 0.1,
+  "forecast": null,
+  "signed": true,
+  "released_at": "2026-10-27T08:30:00-04:00",
+  "design": "v2"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Census Bureau",
+   "url": "https://www.census.gov/manufacturing/m3/"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/27/durable-goods",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-27T12:08:16.793820-04:00"
+}
