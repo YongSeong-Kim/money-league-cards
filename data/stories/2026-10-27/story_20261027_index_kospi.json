@@ -1,0 +1,71 @@
+{
+ "schema_version": 1,
+ "id": "story_20261027_index_kospi",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 1,
+ "title": "코스피 하루 3.09% 급등",
+ "summary_lines": [
+  "1996년 이후 하루 상승폭으로 245번째",
+  "같은 날 코스닥 -3.26%",
+  "52주 최고치보다 38.1% 낮다"
+ ],
+ "facts": {
+  "name": "코스피",
+  "ticker": "KOSPI",
+  "country": "KR",
+  "currency": "PTS",
+  "signal": "index",
+  "price": 5638.34,
+  "prev_close": 5469.47,
+  "change_pct": 3.09,
+  "since": "2026-10-21",
+  "since_label": null,
+  "rank": 245,
+  "history_start": "1996-12-11",
+  "streak": 1,
+  "high_52w": 9114.55,
+  "from_high_pct": -38.1,
+  "as_of": "2026-10-27T15:30:00+09:00",
+  "ai_summary": false,
+  "news1_title": "코스피, 앤트로픽·경제성장률에 장중 5,700선 회복",
+  "news1_publisher": "연합뉴스TV",
+  "news2_title": "[증시-마감] 앤트로픽이 되살린 반도체 투심…코스피 3%·코스닥 2%대 반등",
+  "news2_publisher": "연합인포맥스",
+  "news3_title": "코스피 4%대 급등 출발…외국인 매수에 5700선 회복 눈앞 By EBN",
+  "news3_publisher": "Investing.com 한국어",
+  "design": "v2"
+ },
+ "tickers": [
+  "^KS11"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/^KS11"
+  },
+  {
+   "name": "연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BVWVjNHVrS0hqb3B0b00ycGIzYjVZUmYxcDFvMkg2RG1lUmVBeEo0MGNqNjlsTVZPajJHbERfSGFmNWR5UE5YZ2xXMXBwZlFnajVpUGl2RU8zdmJ1dXFGVTYwX1VOQTQ?oc=5"
+  },
+  {
+   "name": "연합인포맥스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MnpTa2d3Wm9RSW9CejVZVnRtZXQxNXJKdGgwQTBXemtHRTRDbzgtZ0I0NWE5S2tjZjZpUVlhelpmVGtXbUMzbzNGT2oxdHNqRk9UUnk1cGdpb3VVY1FUUHNFN1dkbVNXSkx3ZTZicV8?oc=5"
+  },
+  {
+   "name": "Investing.com 한국어",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kU1RQUTctdW1uTUdjVjdmTnlNMlFka0N2dEUxTUYyTTJMTVd0U1hGM0EzNjhjZ1hFQXhlaGl4S2tVYVVRTDVUcVgxZ3Q3c0F2TnlUazFoSmd6T1pWWGNLVWt4U0ZSNV9nOTE2dVF2a2g?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/27/index-kospi",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-27T16:08:14.017751+09:00"
+}
