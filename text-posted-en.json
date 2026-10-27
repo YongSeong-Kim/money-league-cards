@@ -64,5 +64,11 @@
   "kind": "basics",
   "key": "mortgage",
   "threads": "17994028449107917"
+ },
+ {
+  "date": "2026-10-27",
+  "kind": "basics",
+  "key": "fees",
+  "threads": "17921361864446469"
  }
 ]
