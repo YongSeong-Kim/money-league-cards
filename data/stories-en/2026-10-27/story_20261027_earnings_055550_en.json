@@ -1,0 +1,55 @@
+{
+ "schema_version": 1,
+ "id": "story_20261027_earnings_055550_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "Shinhan Financial Group Q3 2026: ₩10 of every ₩100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue ₩18.64T (~$14B, +96% y/y)",
+  "Operating income ₩1.91T (~$1.4B, -2% y/y), margin 21% -> 10%",
+  "Net income ₩1.61T (~$1.2B, +11% y/y) (preliminary)"
+ ],
+ "facts": {
+  "company": "Shinhan Financial Group",
+  "ticker": "055550",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "Preliminary results",
+  "filed": "2026-10-27",
+  "as_of": "2026-10-27",
+  "revenue": 18640834000000.0,
+  "opex": 16733813000000.0,
+  "operating": 1907021000000.0,
+  "opex_items": "",
+  "net": 1609753000000.0,
+  "usd_per_krw": 0.00075411366,
+  "prev_revenue": 9514830000000.0,
+  "prev_operating": 1954623000000.0,
+  "prev_net": 1452190000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "055550.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART preliminary results",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800211"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/27/earnings-055550",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-27T16:08:08.109454-04:00"
+}
