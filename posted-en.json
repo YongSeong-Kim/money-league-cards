@@ -431,5 +431,16 @@
   "threads": "18044277866830495",
   "design": "v2",
   "poll": "17999237738829042"
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "midday",
+  "story_id": "story_20261029_index_kospi_en",
+  "key": "move:^KS11",
+  "instagram": "https://www.instagram.com/reel/DfC1QdAD9T2/",
+  "threads": "18066084374519318",
+  "design": "v2",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/DfC1QdAD9T2/"
  }
 ]
