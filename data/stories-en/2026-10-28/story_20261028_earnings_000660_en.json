@@ -1,0 +1,55 @@
+{
+ "schema_version": 1,
+ "id": "story_20261028_earnings_000660_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "SK Hynix Q3 2026: ₩80 of every ₩100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue ₩104.62T (~$78B, +328% y/y)",
+  "Operating income ₩83.33T (~$62B, +632% y/y), margin 47% -> 80%",
+  "Net income ₩39.78T (~$30B, +216% y/y) (preliminary)"
+ ],
+ "facts": {
+  "company": "SK Hynix",
+  "ticker": "000660",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "Preliminary results",
+  "filed": "2026-10-28",
+  "as_of": "2026-10-28",
+  "revenue": 104615483000000.0,
+  "opex": 21281665000000.0,
+  "operating": 83333818000000.0,
+  "opex_items": "",
+  "net": 39775593000000.0,
+  "usd_per_krw": 0.0007453453,
+  "prev_revenue": 24448929000000.0,
+  "prev_operating": 11383390000000.0,
+  "prev_net": 12597538000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "000660.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART preliminary results",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800036"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/28/earnings-000660",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-28T16:08:09.195760-04:00"
+}
