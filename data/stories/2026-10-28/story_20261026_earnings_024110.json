@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "id": "story_20261026_earnings_024110",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "기업은행 7~9월 잠정실적: 100원 팔아 영업이익 9.8원",
+ "summary_lines": [
+  "매출 10.5조 원 (작년보다 +79%)",
+  "영업이익 1.0조 원 (작년보다 +6%), 영업이익률 17% → 9.8%",
+  "순이익 7,712억 원 (작년보다 +3%)"
+ ],
+ "facts": {
+  "company": "기업은행",
+  "ticker": "024110",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-10-26",
+  "as_of": "2026-10-26",
+  "revenue": 10470769000000.0,
+  "opex": 9439454000000.0,
+  "operating": 1031315000000.0,
+  "opex_items": "",
+  "net": 771207000000.0,
+  "prev_revenue": 5853938000000.0,
+  "prev_operating": 976740000000.0,
+  "prev_net": 751160000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "024110.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800442"
+  }
+ ],
+ "web_slug": "/stories/2026/10/26/earnings-024110",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-28T12:08:24.210304+09:00"
+}
