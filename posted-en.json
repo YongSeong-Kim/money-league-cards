@@ -442,5 +442,15 @@
   "design": "v2",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/DfC1QdAD9T2/"
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "justin",
+  "story_id": "fomc_20261028",
+  "key": "justin:fomc:2026-10-28",
+  "instagram": null,
+  "threads": "17904466695672008",
+  "photo": "fomc/warsh-portrait.jpg",
+  "seconds_after_release": 62
  }
 ]
