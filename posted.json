@@ -470,5 +470,15 @@
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/DfB3tnJDOjf/",
   "poll": "18117820634117125"
+ },
+ {
+  "date": "2026-10-29",
+  "slot": "morning",
+  "story_id": "story_20261029_morning_brief_ko",
+  "key": "story_20261029_morning_brief_ko",
+  "instagram": "https://www.instagram.com/p/DfDX1iwjSjC/",
+  "threads": "17949111120068352",
+  "design": "v2",
+  "poll": "18200184760382545"
  }
 ]
