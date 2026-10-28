@@ -64,5 +64,11 @@
   "kind": "basics",
   "key": "fees",
   "threads": "18423129016157509"
+ },
+ {
+  "date": "2026-10-28",
+  "kind": "basics",
+  "key": "compounding",
+  "threads": "17939332164123654"
  }
 ]
