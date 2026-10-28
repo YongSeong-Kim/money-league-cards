@@ -421,5 +421,15 @@
   "design": "v2",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/DfAsQ4njdXw/"
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "morning",
+  "story_id": "story_20261028_morning_brief_en",
+  "key": "story_20261028_morning_brief_en",
+  "instagram": "https://www.instagram.com/p/DfCMJfsIHAr/",
+  "threads": "18044277866830495",
+  "design": "v2",
+  "poll": "17999237738829042"
  }
 ]
