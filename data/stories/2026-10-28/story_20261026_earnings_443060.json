@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "id": "story_20261026_earnings_443060",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "HD현대마린솔루션 7~9월 잠정실적: 100원 팔아 영업이익 15원",
+ "summary_lines": [
+  "매출 6,501억 원 (작년보다 +27%)",
+  "영업이익 957억 원 (작년보다 +2%), 영업이익률 18% → 15%",
+  "순이익 326억 원 (작년보다 -59%)"
+ ],
+ "facts": {
+  "company": "HD현대마린솔루션",
+  "ticker": "443060",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-10-26",
+  "as_of": "2026-10-26",
+  "revenue": 650100000000.0,
+  "opex": 554400000000.0,
+  "operating": 95700000000.0,
+  "opex_items": "",
+  "net": 32600000000.0,
+  "prev_revenue": 513200000000.0,
+  "prev_operating": 93600000000.0,
+  "prev_net": 79800000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "443060.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800212"
+  }
+ ],
+ "web_slug": "/stories/2026/10/26/earnings-443060",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-28T16:08:21.875154+09:00"
+}
