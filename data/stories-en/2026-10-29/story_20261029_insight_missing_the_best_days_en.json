@@ -1,0 +1,49 @@
+{
+ "schema_version": 1,
+ "id": "story_20261029_insight_missing_the_best_days_en",
+ "type": "insight",
+ "locale": "en",
+ "importance": 1,
+ "title": "What if you missed the 10 best days?",
+ "summary_lines": [
+  "Hold the S&P 500 from the end of 2005 to the end of 2025 and you'd have 5.48x your money."
+ ],
+ "facts": {
+  "slug": "missing-the-best-days",
+  "web_path": "/en/insights/missing-the-best-days",
+  "post": "Hold the S&P 500 from the end of 2005 to the end of 2025 and you'd have 5.48x your money.\nMiss just the 10 best days out of 5,031 and it's 2.44x.\n\n6 of those 10 days came within two weeks of one of the 10 worst. The best days show up when it feels worst.\n\nEver sold in a panic and watched it bounce right after?",
+  "reply": "Missing 20 and 30 days, plus the same math for other indexes. Price index, dividends not included.",
+  "as_of": "2026-10-29",
+  "s1_big": "5.48x",
+  "s1_label": "S&P 500, held 2006–2025",
+  "s1_note": "5,031 trading days, 8.88% a year",
+  "s1_tone": "up",
+  "s2_big": "2.44x",
+  "s2_label": "Same 20 years, minus the 10 best days",
+  "s2_note": "4.56% a year",
+  "s2_tone": "down",
+  "s3_big": "6/10",
+  "s3_label": "Best days that came within 2 weeks of one of the 10 worst",
+  "s3_note": "The best: Oct 13, 2008, +11.58%",
+  "s3_tone": "accent",
+  "design": "v2"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/%5EGSPC/history/"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/29/insight-missing-the-best-days",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-29T16:12:25.990439-04:00"
+}
