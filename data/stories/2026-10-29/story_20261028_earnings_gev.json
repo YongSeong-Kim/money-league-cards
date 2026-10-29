@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "id": "story_20261028_earnings_gev",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "GE 버노바 7~9월 실적: 100달러 팔아 영업이익 11달러",
+ "summary_lines": [
+  "매출 126억 달러 (작년보다 +27%)",
+  "영업이익 14억 달러 (작년보다 +281%), 영업이익률 3.7% → 11%",
+  "순이익 13억 달러 (작년보다 +186%)"
+ ],
+ "facts": {
+  "company": "GE 버노바",
+  "ticker": "GEV",
+  "fiscal": "FY2026 Q3",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-28",
+  "as_of": "2026-10-28",
+  "revenue": 12642000000.0,
+  "cost": 9535000000.0,
+  "gross": 3107000000.0,
+  "opex": 1713000000.0,
+  "operating": 1394000000.0,
+  "net": 1291000000.0,
+  "opex_items": "rd,sga",
+  "web_path": "/earnings/gev",
+  "opex_rd": 358000000.0,
+  "opex_sga": 1354000000.0,
+  "prev_revenue": 9969000000.0,
+  "prev_gross": 1897000000.0,
+  "prev_operating": 366000000.0,
+  "prev_net": 452000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "GEV"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC 제출 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1996810&type=10-Q"
+  }
+ ],
+ "web_slug": "/stories/2026/10/28/earnings-gev",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-29T12:08:09.037705+09:00"
+}
