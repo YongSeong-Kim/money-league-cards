@@ -1,0 +1,70 @@
+{
+ "schema_version": 1,
+ "id": "story_20261029_index_kosdaq",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 1,
+ "title": "코스닥 하루 3.69% 급등",
+ "summary_lines": [
+  "2000년 이후 하루 상승폭으로 103번째",
+  "52주 최고치보다 37.1% 낮다"
+ ],
+ "facts": {
+  "name": "코스닥",
+  "ticker": "KOSDAQ",
+  "country": "KR",
+  "currency": "PTS",
+  "signal": "index",
+  "price": 771.28,
+  "prev_close": 743.83,
+  "change_pct": 3.69,
+  "since": "2026-10-16",
+  "since_label": null,
+  "rank": 103,
+  "history_start": "2000-10-16",
+  "streak": 2,
+  "high_52w": 1226.18,
+  "from_high_pct": -37.1,
+  "as_of": "2026-10-28T15:30:00+09:00",
+  "ai_summary": false,
+  "news1_title": "코스피, 0.08% 상승 출발…코스닥은 0.45↓",
+  "news1_publisher": "연합뉴스TV",
+  "news2_title": "[코스닥] 18.05p(2.34%) 내린 753.23(장종료)",
+  "news2_publisher": "연합뉴스",
+  "news3_title": "코스피, 1.2% 내려 하루만에 '6천피' 반납…코스닥도 2.3%↓",
+  "news3_publisher": "매일경제 마켓",
+  "design": "v2"
+ },
+ "tickers": [
+  "^KQ11"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/^KQ11"
+  },
+  {
+   "name": "연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qSV82OEJ0X2ZiRkxmTGlXNjFMd2c3ZmF2WGhFUllCMU0wdGJYb2FGT2otX2F1RmViY3oyend5a1JTQmxxRXUxNVM0WVFVOU5kSDR1RzE1eUwwRDNjdkRiUXp4dWU5UG8?oc=5"
+  },
+  {
+   "name": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JS1E0VDRNVkJkWm5pQnBmTjgzSmF2R01vcy1FNmRZdzdEWFNSRnkteDMtenRPeGtKOVhRMmwzU0ZqVlpDeGFhcm5XN1k5Yk1WSF9VQ2hWTDNfenfSAWBBVV95cUxQRTJQaEhDUThZaTdZV1FncDJFbGI3VEk2MXM2QU5KMjFTSHAydnNlZlVlQ1JuUFBCQ3FIMXRVX3kxQ1lMbVQ2dFRkOXhmTkpPcVFOU1d4Wmg5UXdHRWlCLUE?oc=5"
+  },
+  {
+   "name": "매일경제 마켓",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04ZDRsZ1ZHUENma0ZBYS1vVEx0QzcxcGVWLTZ1R1Rmb0tzTGNsSHhWUlJCN3NQaFdQRTl6eDllNHF3TzlONFJyaDc3Z0VqbnFRcHc?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/29/index-kosdaq",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-29T16:08:04.982390+09:00"
+}
