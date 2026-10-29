@@ -1,0 +1,55 @@
+{
+ "schema_version": 1,
+ "id": "story_20261028_earnings_009150_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "Samsung Electro-mechanics Q3 2026: ₩18 of every ₩100 in sales was operating prof",
+ "summary_lines": [
+  "Revenue ₩3.76T (~$2.8B, +30% y/y)",
+  "Operating income ₩691B (~$516M, +165% y/y), margin 9.0% -> 18%",
+  "Net income ₩485B (~$362M, +116% y/y) (preliminary)"
+ ],
+ "facts": {
+  "company": "Samsung Electro-mechanics",
+  "ticker": "009150",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "Preliminary results",
+  "filed": "2026-10-28",
+  "as_of": "2026-10-28",
+  "revenue": 3763278000000.0,
+  "opex": 3072321000000.0,
+  "operating": 690957000000.0,
+  "opex_items": "",
+  "net": 485034000000.0,
+  "usd_per_krw": 0.00074666424,
+  "prev_revenue": 2889036000000.0,
+  "prev_operating": 260277000000.0,
+  "prev_net": 224852000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "009150.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART preliminary results",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800169"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/28/earnings-009150",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-29T12:08:21.031750-04:00"
+}
