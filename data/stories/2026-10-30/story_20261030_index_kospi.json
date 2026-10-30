@@ -1,0 +1,70 @@
+{
+ "schema_version": 1,
+ "id": "story_20261030_index_kospi",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 1,
+ "title": "코스피 하루 3.48% 급락",
+ "summary_lines": [
+  "1996년 이후 하루 하락폭으로 211번째",
+  "52주 최고치보다 37.1% 낮다"
+ ],
+ "facts": {
+  "name": "코스피",
+  "ticker": "KOSPI",
+  "country": "KR",
+  "currency": "PTS",
+  "signal": "index",
+  "price": 5730.74,
+  "prev_close": 5937.66,
+  "change_pct": -3.48,
+  "since": "2026-10-22",
+  "since_label": null,
+  "rank": 211,
+  "history_start": "1996-12-11",
+  "streak": 2,
+  "high_52w": 9114.55,
+  "from_high_pct": -37.1,
+  "as_of": "2026-10-30T15:30:00+09:00",
+  "ai_summary": false,
+  "news1_title": "[경제읽기] 알파벳 시총 하루 새 669조 증발…코스피도 급락",
+  "news1_publisher": "연합뉴스TV",
+  "news2_title": "[속보] AI 우려에 반도체 '휘청'...코스피 3.5% 하락",
+  "news2_publisher": "YTN",
+  "news3_title": "5,700선 턱걸이 코스피, 3.48% 하락 마감…코스닥도 3.83%↓",
+  "news3_publisher": "연합인포맥스",
+  "design": "v2"
+ },
+ "tickers": [
+  "^KS11"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/^KS11"
+  },
+  {
+   "name": "연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMZEhEZE4xT1oyYzhKQ2VSdFVDcXpLZzR2VEZMWXd3bVE0R3JqdmVjN1drazNxY0JjWWw1d0NmN3dUaXM5b1FyZ05rd2ZiN3k4dVUyRlJBSzZScFU3cjFwRHFrdndoNEU?oc=5"
+  },
+  {
+   "name": "YTN",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNbHJ4SEhwQXpUOGVZV3k1YkFpN2ZzMEV4Yk5lX29HRnp5c2dsODVPSWVuQ1QwNk1TT1JwTjJGbjk5SnE4bjZ5WnNSSGNuSENlY1VXSVdyTTg3bVR5eFhWU2ZTMUk2TU1DQUhPNy0xZw?oc=5"
+  },
+  {
+   "name": "연합인포맥스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNDU0T0FDMXVMajZtS0MtM3pHaERZOVBzQ2k4STBRNS1QcGh2RHJXbHNWcUtsSG1wU205NVZyZkt3aFdlZHhWbDc2d1VWQ0xieWpKYU0wb2dUQVVJd0JacnlhLUlpMGk1c0h4UnFOcWTSAXRBVV95cUxNeWxlX0pHTGd5UURBN2U4WU9QTkZDa1hEMXpyb1NlbjhfRXAwcFpDMXBwNXRLRGZoNVdya2tvYnNCbm85VU52ZnNSeDJweGV2S2R0RVE5TGtvcXVTdTRFOG1OZUlpeXVMRVVweGVVd0xlQVlCUw?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/10/30/index-kospi",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-30T16:08:02.470372+09:00"
+}
