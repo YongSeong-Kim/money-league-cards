@@ -1,0 +1,58 @@
+{
+ "schema_version": 1,
+ "id": "story_20261028_earnings_gev_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "GE Vernova FY2026 Q3: $11 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $12.6B (+27% y/y)",
+  "Operating income $1.4B (+281% y/y), margin 3.7% -> 11%",
+  "Net income $1.3B (+186% y/y)"
+ ],
+ "facts": {
+  "company": "GE Vernova",
+  "ticker": "GEV",
+  "fiscal": "FY2026 Q3",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-28",
+  "as_of": "2026-10-28",
+  "revenue": 12642000000.0,
+  "cost": 9535000000.0,
+  "gross": 3107000000.0,
+  "opex": 1713000000.0,
+  "operating": 1394000000.0,
+  "net": 1291000000.0,
+  "opex_items": "rd,sga",
+  "web_path": "/en/earnings/gev",
+  "opex_rd": 358000000.0,
+  "opex_sga": 1354000000.0,
+  "prev_revenue": 9969000000.0,
+  "prev_gross": 1897000000.0,
+  "prev_operating": 366000000.0,
+  "prev_net": 452000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "GEV"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1996810&type=10-Q"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/28/earnings-gev",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-30T12:08:07.284862-04:00"
+}
