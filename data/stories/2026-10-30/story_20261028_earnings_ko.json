@@ -1,0 +1,57 @@
+{
+ "schema_version": 1,
+ "id": "story_20261028_earnings_ko",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "코카콜라 7~9월 실적: 100달러 팔아 영업이익 33달러",
+ "summary_lines": [
+  "매출 134억 달러 (작년보다 +7%)",
+  "영업이익 45억 달러 (작년보다 +12%), 영업이익률 32% → 33%",
+  "순이익 40억 달러 (작년보다 +8%)"
+ ],
+ "facts": {
+  "company": "코카콜라",
+  "ticker": "KO",
+  "fiscal": "FY2026 Q3",
+  "period": "7~9월",
+  "period_end": "2026-10-02",
+  "form": "10-Q",
+  "filed": "2026-10-28",
+  "as_of": "2026-10-28",
+  "revenue": 13380000000.0,
+  "cost": 4930000000.0,
+  "gross": 8450000000.0,
+  "opex": 3985000000.0,
+  "operating": 4465000000.0,
+  "net": 4009000000.0,
+  "opex_items": "sga",
+  "web_path": "/earnings/ko",
+  "opex_sga": 3975000000.0,
+  "prev_revenue": 12455000000.0,
+  "prev_gross": 7658000000.0,
+  "prev_operating": 3982000000.0,
+  "prev_net": 3696000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "KO"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC 제출 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=21344&type=10-Q"
+  }
+ ],
+ "web_slug": "/stories/2026/10/28/earnings-ko",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-10-30T12:08:10.035378+09:00"
+}
