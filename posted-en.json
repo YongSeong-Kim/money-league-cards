@@ -512,5 +512,15 @@
   "design": "v2",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/DfH_DxGlbJX/"
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "evening",
+  "story_id": "story_20261028_earnings_ko_en",
+  "key": "story_20261028_earnings_ko_en",
+  "instagram": null,
+  "threads": "17982751038121225",
+  "design": "v2",
+  "cover_photo": false
  }
 ]
