@@ -1,0 +1,49 @@
+{
+ "schema_version": 1,
+ "id": "story_20261029_insight_missing_the_best_days",
+ "type": "insight",
+ "locale": "ko",
+ "importance": 1,
+ "title": "가장 좋은 10일을 놓쳤다면?",
+ "summary_lines": [
+  "S&P 500을 2005년 말에 사서 2025년 말까지 들고 있었으면 5.48배예요."
+ ],
+ "facts": {
+  "slug": "missing-the-best-days",
+  "web_path": "/insights/missing-the-best-days",
+  "post": "S&P 500을 2005년 말에 사서 2025년 말까지 들고 있었으면 5.48배예요.\n그 5,031거래일 중 가장 많이 오른 10일만 빠졌으면 2.44배고요.\n\n그 10일 중 6일은 가장 크게 떨어진 날들과 2주 안에 붙어 있었어요. 제일 무서울 때 제일 좋은 날이 와요.\n\n폭락한 날 팔았다가 바로 반등하는 거 본 적 있어요?",
+  "reply": "20일, 30일을 빠졌을 때와 코스피 같은 다른 지수 계산도 정리해 뒀어요. 가격 지수라 배당은 빠져 있어요.",
+  "as_of": "2026-10-29",
+  "s1_big": "5.48배",
+  "s1_label": "S&P 500을 2006~2025년 계속 들고 있었다면",
+  "s1_note": "5,031거래일, 연 8.88%",
+  "s1_tone": "up",
+  "s2_big": "2.44배",
+  "s2_label": "같은 20년, 가장 많이 오른 10일만 빠졌다면",
+  "s2_note": "연 4.56%",
+  "s2_tone": "down",
+  "s3_big": "6/10",
+  "s3_label": "가장 좋은 날 중 가장 나쁜 날과 2주 안에 붙어 있던 날",
+  "s3_note": "1위는 2008년 10월 13일 +11.58%",
+  "s3_tone": "accent",
+  "design": "v2"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/%5EGSPC/history/"
+  }
+ ],
+ "web_slug": "/stories/2026/10/29/insight-missing-the-best-days",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-10-31T16:13:39.815413+09:00"
+}
