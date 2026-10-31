@@ -542,5 +542,16 @@
   "design": "v2",
   "reel": "https://www.instagram.com/reel/DfKjwAtiXWL/",
   "x": "buffer:6ae613ce1ee172cd6daf4fa0"
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "evening",
+  "story_id": "story_20261028_earnings_msft_en",
+  "key": "story_20261028_earnings_msft_en",
+  "instagram": null,
+  "threads": "17960042727015733",
+  "design": "v2",
+  "cover_photo": false,
+  "x": "buffer:6ae64bf0f0984eef332bbb1b"
  }
 ]
