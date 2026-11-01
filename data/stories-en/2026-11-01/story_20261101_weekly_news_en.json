@@ -1,0 +1,63 @@
+{
+ "schema_version": 1,
+ "id": "story_20261101_weekly_news_en",
+ "type": "weekly_news",
+ "locale": "en",
+ "importance": 1,
+ "title": "5 money stories you might've missed this week",
+ "summary_lines": [
+  "Fed holds rates steady in split vote",
+  "US economy grew 3.4 percent in third quarter",
+  "Economic woes top concern for voters"
+ ],
+ "facts": {
+  "week_start": "2026-10-26",
+  "week_end": "2026-11-01",
+  "count": 5,
+  "as_of": "2026-11-01T12:08:24.647090-05:00",
+  "n1_headline": "Fed holds rates steady in split vote",
+  "n1_line": "The central bank kept interest rates unchanged despite rising inflation.",
+  "n1_publishers": 120,
+  "n1_day": "2026-10-28",
+  "n1_weekday": "Wed",
+  "n2_headline": "US economy grew 3.4 percent in third quarter",
+  "n2_line": "Growth beat expectations thanks to strong consumer spending and AI investment.",
+  "n2_publishers": 35,
+  "n2_day": "2026-10-30",
+  "n2_weekday": "Fri",
+  "n3_headline": "Economic woes top concern for voters",
+  "n3_line": "Money is top of mind as voters head to the ballot box.",
+  "n3_publishers": 51,
+  "n3_day": "2026-10-27",
+  "n3_weekday": "Tue",
+  "n4_headline": "Fed expected to hold rates steady",
+  "n4_line": "The central bank will likely keep rates steady this week despite high inflation.",
+  "n4_publishers": 31,
+  "n4_day": "2026-10-26",
+  "n4_weekday": "Mon",
+  "n5_headline": "Stocks rise as Anthropic files for IPO",
+  "n5_line": "Equities climbed higher as Anthropic filed for an IPO.",
+  "n5_publishers": 24,
+  "n5_day": "2026-10-26",
+  "n5_weekday": "Mon",
+  "design": "v2"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Google News",
+   "url": null
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/01/weekly-news",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-11-01T12:08:24.647090-05:00"
+}
