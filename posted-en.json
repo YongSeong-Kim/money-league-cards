@@ -553,5 +553,15 @@
   "design": "v2",
   "cover_photo": false,
   "x": "buffer:6ae64bf0f0984eef332bbb1b"
+ },
+ {
+  "date": "2026-11-01",
+  "slot": "morning",
+  "story_id": "story_20261101_korea_weekly_en",
+  "key": "table:korea_weekly_en",
+  "instagram": "https://www.instagram.com/p/DfMmZEgCTqL/",
+  "threads": "18111066911243128",
+  "design": "v2",
+  "x": "buffer:6ae71f46f0984eef335fa6ee"
  }
 ]
