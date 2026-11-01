@@ -70,5 +70,12 @@
   "kind": "basics",
   "key": "fees",
   "threads": "17921361864446469"
+ },
+ {
+  "date": "2026-10-31",
+  "kind": "fact",
+  "key": "ytd_race",
+  "threads": "18081248114718299",
+  "x": "buffer:6ae6ad0c1ee172cd6dd7428a"
  }
 ]
