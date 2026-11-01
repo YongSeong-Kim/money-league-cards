@@ -574,5 +574,15 @@
   "design": "v2",
   "reel": "https://www.instagram.com/reel/DfNO_pVk6Ed/",
   "x": "buffer:6ae7727c142f545151ef9c11"
+ },
+ {
+  "date": "2026-11-01",
+  "slot": "evening",
+  "story_id": "story_20261102_econ_calendar_en",
+  "key": "story_20261102_econ_calendar_en",
+  "instagram": null,
+  "threads": "18118539232821112",
+  "design": "v2",
+  "x": "buffer:6ae7acaa48ce42a6b428e2e5"
  }
 ]
