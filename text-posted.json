@@ -70,5 +70,11 @@
   "kind": "basics",
   "key": "compounding",
   "threads": "17939332164123654"
+ },
+ {
+  "date": "2026-11-01",
+  "kind": "fact",
+  "key": "ytd_race",
+  "threads": "18015073490976495"
  }
 ]
