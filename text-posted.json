@@ -82,5 +82,11 @@
   "kind": "basics",
   "key": "currency",
   "threads": "18131359837696454"
+ },
+ {
+  "date": "2026-11-02",
+  "kind": "fact",
+  "key": "from_peak",
+  "threads": "17914832853517836"
  }
 ]
