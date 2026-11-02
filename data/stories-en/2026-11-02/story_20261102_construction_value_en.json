@@ -1,0 +1,42 @@
+{
+ "schema_version": 1,
+ "id": "story_20261102_construction_value_en",
+ "type": "macro_release",
+ "locale": "en",
+ "importance": 2,
+ "title": "Construction spending dropped in September",
+ "summary_lines": [
+  "Spending fell below the revised August estimate.",
+  "The U.S. Census Bureau released the data."
+ ],
+ "facts": {
+  "indicator_name": "Construction spending, month over month",
+  "country": "US",
+  "period": "September 2026",
+  "unit": "%",
+  "actual": -1.9,
+  "previous": 2.0,
+  "forecast": null,
+  "signed": true,
+  "released_at": "2026-11-02T10:00:00-05:00",
+  "design": "v2"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Census Bureau",
+   "url": "https://www.census.gov/construction/c30/c30index.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/02/construction-value",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-11-02T12:08:15.856049-05:00"
+}
