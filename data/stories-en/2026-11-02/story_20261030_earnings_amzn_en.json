@@ -1,0 +1,56 @@
+{
+ "schema_version": 1,
+ "id": "story_20261030_earnings_amzn_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "Amazon FY2026 Q3: $14 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $201.9B (+12% y/y)",
+  "Operating income $28.1B (+61% y/y), margin 9.7% -> 14%",
+  "Net income $20.7B (-2% y/y)"
+ ],
+ "facts": {
+  "company": "Amazon",
+  "ticker": "AMZN",
+  "fiscal": "FY2026 Q3",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-30",
+  "as_of": "2026-10-30",
+  "revenue": 201944000000.0,
+  "cost": 94573000000.0,
+  "gross": 107371000000.0,
+  "opex": 79295000000.0,
+  "operating": 28076000000.0,
+  "net": 20685000000.0,
+  "opex_items": "",
+  "web_path": "/en/earnings/amzn",
+  "prev_revenue": 180169000000.0,
+  "prev_gross": 91499000000.0,
+  "prev_operating": 17422000000.0,
+  "prev_net": 21187000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "AMZN"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724&type=10-Q"
+  }
+ ],
+ "web_slug": "/en/stories/2026/10/30/earnings-amzn",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-02T16:19:50.981180-05:00"
+}
