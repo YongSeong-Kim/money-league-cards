@@ -76,5 +76,11 @@
   "kind": "fact",
   "key": "ytd_race",
   "threads": "18015073490976495"
+ },
+ {
+  "date": "2026-11-02",
+  "kind": "basics",
+  "key": "currency",
+  "threads": "18131359837696454"
  }
 ]
