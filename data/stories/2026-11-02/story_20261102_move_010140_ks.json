@@ -1,0 +1,69 @@
+{
+ "schema_version": 1,
+ "id": "story_20261102_move_010140_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "삼성중공업 하루 만에 7.81% 상승하며 강세",
+ "summary_lines": [
+  "하루 동안 주가가 7.81% 오르고 거래량이 3개월 평균의 2.06배를 기록했다.",
+  "외국인의 매수 상위 종목에 올랐으며 조선주가 나란히 동반 강세를 보였다.",
+  "오전장 주가가 급등하면서 VI가 발동되는 소식이 있었다."
+ ],
+ "facts": {
+  "name": "삼성중공업",
+  "ticker": "010140",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "spike",
+  "price": 17120.0,
+  "change_pct": 7.81,
+  "market_cap": 14623055020032.0,
+  "volume": 6335864,
+  "avg_volume_3m": 3077973,
+  "volume_ratio": 2.06,
+  "high_52w": 35350.0,
+  "from_high_pct": -51.6,
+  "as_of": "2026-11-02T06:30:06+00:00",
+  "ai_summary": true,
+  "news1_title": "[특징주] 외국인, 삼성중공업·대한해운 매수 상위…기관, 삼성전자 순매수 1위",
+  "news1_publisher": "뉴스티앤티",
+  "news2_title": "[속보] 삼성중공업 VI 발동, 오전장 주가 급등…9%대 껑충",
+  "news2_publisher": "CBC뉴스",
+  "news3_title": "삼성중공업 주가 상승 중",
+  "news3_publisher": "아시아뉴스통신",
+  "design": "v2"
+ },
+ "tickers": [
+  "010140.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/010140.KS"
+  },
+  {
+   "name": "뉴스티앤티",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pUU5iMmszYkl3TURWMmw0OEFqbTlOV0FlcE5wZl8zUlNjS2FfdGdfd3h6YllrZFhjYjM4TFQ0M1pBQ2U1RjlJY3NkWFpDdUtIbWg5Z0pmc1luam1wLXZ6RkxvQlBUZHUwUGc?oc=5"
+  },
+  {
+   "name": "CBC뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lXzdMb2lob3RDR1o2Q3N6ZnZCYUNRRFRPVlFtTWdiNDhFdUROcGRDSmloZ09oY1NBaEotRFZMOFJJOFpMS3J2V2JfTkZGcjVJRVJld0VHVWxCWVRyZFhLUmt4YV9veXVR?oc=5"
+  },
+  {
+   "name": "아시아뉴스통신",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zVXcyeXlxNjRGU1hTVWpQS01EbUNvNDVocGtudzVjaG5HcjdfLWNBM2YxYTJRSU5CNi12QVJPdkE1WkZOX0RpVnVjSW1lbE8tbjBUSzEyNzFhLXhWRjY4UzNyR0p6cnIwemJyb0dCSk91OGVT?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/11/02/move-010140",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-02T16:08:10.547532+09:00"
+}
