@@ -1,0 +1,56 @@
+{
+ "schema_version": 1,
+ "id": "story_20261030_earnings_amzn",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "아마존 7~9월 실적: 100달러 팔아 영업이익 14달러",
+ "summary_lines": [
+  "매출 2,019억 달러 (작년보다 +12%)",
+  "영업이익 281억 달러 (작년보다 +61%), 영업이익률 9.7% → 14%",
+  "순이익 207억 달러 (작년보다 -2%)"
+ ],
+ "facts": {
+  "company": "아마존",
+  "ticker": "AMZN",
+  "fiscal": "FY2026 Q3",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-10-30",
+  "as_of": "2026-10-30",
+  "revenue": 201944000000.0,
+  "cost": 94573000000.0,
+  "gross": 107371000000.0,
+  "opex": 79295000000.0,
+  "operating": 28076000000.0,
+  "net": 20685000000.0,
+  "opex_items": "",
+  "web_path": "/earnings/amzn",
+  "prev_revenue": 180169000000.0,
+  "prev_gross": 91499000000.0,
+  "prev_operating": 17422000000.0,
+  "prev_net": 21187000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "AMZN"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC 제출 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1018724&type=10-Q"
+  }
+ ],
+ "web_slug": "/stories/2026/10/30/earnings-amzn",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-02T12:08:09.270711+09:00"
+}
