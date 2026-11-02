@@ -91,5 +91,12 @@
   "key": "from_peak",
   "threads": "18008196599791157",
   "x": "buffer:6ae7f083779ee9f13cc9de31"
+ },
+ {
+  "date": "2026-11-02",
+  "kind": "basics",
+  "key": "compounding",
+  "threads": "18469204747186244",
+  "x": "buffer:6ae899473911b6a45d5602f9"
  }
 ]
