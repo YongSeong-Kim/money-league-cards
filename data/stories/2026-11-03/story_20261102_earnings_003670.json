@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "id": "story_20261102_earnings_003670",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "포스코퓨처엠 7~9월 잠정실적: 100원 팔아 영업이익 9.8원",
+ "summary_lines": [
+  "매출 7,241억 원 (작년보다 -7%)",
+  "영업이익 709억 원 (작년보다 +22%), 영업이익률 7.4% → 9.8%",
+  "순이익 337억 원 (작년보다 +6%)"
+ ],
+ "facts": {
+  "company": "포스코퓨처엠",
+  "ticker": "003670",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-11-02",
+  "as_of": "2026-11-02",
+  "revenue": 724099000000.0,
+  "opex": 653230000000.0,
+  "operating": 70869000000.0,
+  "opex_items": "",
+  "net": 33748000000.0,
+  "prev_revenue": 781006000000.0,
+  "prev_operating": 57864000000.0,
+  "prev_net": 31987000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "003670.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800268"
+  }
+ ],
+ "web_slug": "/stories/2026/11/02/earnings-003670",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-03T12:02:23.225216+09:00"
+}
