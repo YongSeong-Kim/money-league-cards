@@ -105,5 +105,12 @@
   "key": "year_swings",
   "threads": "18077575199755128",
   "x": "buffer:6ae942055d11dd638e9c2f54"
+ },
+ {
+  "date": "2026-11-03",
+  "kind": "basics",
+  "key": "mortgage",
+  "threads": "18056551244808040",
+  "x": "buffer:6ae9eac67ee51e5b5126a9de"
  }
 ]
