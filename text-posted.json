@@ -94,5 +94,11 @@
   "kind": "basics",
   "key": "mortgage",
   "threads": "18093782402222901"
+ },
+ {
+  "date": "2026-11-03",
+  "kind": "fact",
+  "key": "year_swings",
+  "threads": "18643326097050607"
  }
 ]
