@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "id": "story_20261102_earnings_005490",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "POSCO홀딩스 7~9월 잠정실적: 100원 팔아 영업이익 4.9원",
+ "summary_lines": [
+  "매출 19.1조 원 (작년보다 +11%)",
+  "영업이익 9,400억 원 (작년보다 +47%), 영업이익률 3.7% → 4.9%",
+  "순이익 3,800억 원 (작년보다 -3%)"
+ ],
+ "facts": {
+  "company": "POSCO홀딩스",
+  "ticker": "005490",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-11-02",
+  "as_of": "2026-11-02",
+  "revenue": 19140000000000.0,
+  "opex": 18200000000000.0,
+  "operating": 940000000000.0,
+  "opex_items": "",
+  "net": 380000000000.0,
+  "prev_revenue": 17260000000000.002,
+  "prev_operating": 640000000000.0,
+  "prev_net": 390000000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "005490.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800417"
+  }
+ ],
+ "web_slug": "/stories/2026/11/02/earnings-005490",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-03T16:08:13.351267+09:00"
+}
