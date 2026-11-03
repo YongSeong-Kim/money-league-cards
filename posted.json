@@ -655,5 +655,15 @@
   "design": "v2",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/DfRUcM5DjVd/"
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "morning",
+  "story_id": "story_20261104_morning_brief_ko",
+  "key": "story_20261104_morning_brief_ko",
+  "instagram": "https://www.instagram.com/reel/DfS02SDjhtE/",
+  "threads": "18172998883461369",
+  "design": "v2",
+  "reel": "https://www.instagram.com/reel/DfS02SDjhtE/"
  }
 ]
