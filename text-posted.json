@@ -88,5 +88,11 @@
   "kind": "fact",
   "key": "from_peak",
   "threads": "17914832853517836"
+ },
+ {
+  "date": "2026-11-03",
+  "kind": "basics",
+  "key": "mortgage",
+  "threads": "18093782402222901"
  }
 ]
