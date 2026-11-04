@@ -106,5 +106,11 @@
   "kind": "basics",
   "key": "fees",
   "threads": "17881559937630154"
+ },
+ {
+  "date": "2026-11-04",
+  "kind": "fact",
+  "key": "rate_year",
+  "threads": "18130938599504288"
  }
 ]
