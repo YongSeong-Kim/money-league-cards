@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "id": "story_20261102_earnings_010950",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "S-Oil 7~9월 잠정실적: 100원 팔아 영업이익 12원",
+ "summary_lines": [
+  "매출 12.0조 원 (작년보다 +42%)",
+  "영업이익 1.4조 원 (작년보다 +514%), 영업이익률 2.7% → 12%",
+  "순이익 1.4조 원 (작년보다 +2171%)"
+ ],
+ "facts": {
+  "company": "S-Oil",
+  "ticker": "010950",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-11-02",
+  "as_of": "2026-11-02",
+  "revenue": 11968692000000.0,
+  "opex": 10562039000000.0,
+  "operating": 1406653000000.0,
+  "opex_items": "",
+  "net": 1435596000000.0,
+  "prev_revenue": 8415367000000.0,
+  "prev_operating": 229216000000.0,
+  "prev_net": 63206000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "010950.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800404"
+  }
+ ],
+ "web_slug": "/stories/2026/11/02/earnings-010950",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-04T12:08:27.844013+09:00"
+}
