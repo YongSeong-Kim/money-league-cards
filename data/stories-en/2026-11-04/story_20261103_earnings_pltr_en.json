@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "id": "story_20261103_earnings_pltr_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "Palantir FY2026 Q3: $47 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $2.3B (+96% y/y)",
+  "Operating income $1.1B (+176% y/y), margin 33% -> 47%",
+  "Net income $1.1B (+137% y/y)"
+ ],
+ "facts": {
+  "company": "Palantir",
+  "ticker": "PLTR",
+  "fiscal": "FY2026 Q3",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-11-03",
+  "as_of": "2026-11-03",
+  "revenue": 2313411000.0,
+  "cost": 383286000.0,
+  "gross": 1930125000.0,
+  "opex": 845280000.0,
+  "operating": 1084845000.0,
+  "net": 1128012000.0,
+  "opex_items": "rd,sm,ga",
+  "web_path": "/en/earnings/pltr",
+  "opex_rd": 219720000.0,
+  "opex_sm": 396711000.0,
+  "opex_ga": 228849000.0,
+  "prev_revenue": 1181092000.0,
+  "prev_gross": 973785000.0,
+  "prev_operating": 393256000.0,
+  "prev_net": 475599000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "PLTR"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1321655&type=10-Q"
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/03/earnings-pltr",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-04T16:14:45.181313-05:00"
+}
