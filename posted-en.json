@@ -658,5 +658,17 @@
   "threads": "18351741382250030",
   "design": "v2",
   "x": "buffer:6aeb18a49074318735746c47"
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "midday",
+  "story_id": "story_20261103_earnings_abbv_en",
+  "key": "story_20261103_earnings_abbv_en",
+  "instagram": "https://www.instagram.com/reel/DfU94AREhGl/",
+  "threads": "17981590692133301",
+  "design": "v2",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/DfU94AREhGl/",
+  "x": "buffer:6aeb6804de5163115e197a48"
  }
 ]

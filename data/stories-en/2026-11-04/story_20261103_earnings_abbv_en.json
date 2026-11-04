@@ -1,0 +1,56 @@
+{
+ "schema_version": 1,
+ "id": "story_20261103_earnings_abbv_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "AbbVie FY2026 Q3: $36 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $17.4B (+10% y/y)",
+  "Operating income $6.3B (+229% y/y), margin 12% -> 36%",
+  "Net income $4.2B (+2168% y/y)"
+ ],
+ "facts": {
+  "company": "AbbVie",
+  "ticker": "ABBV",
+  "fiscal": "FY2026 Q3",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-30",
+  "form": "10-Q",
+  "filed": "2026-11-03",
+  "as_of": "2026-11-03",
+  "revenue": 17404000000.0,
+  "cost": 4285000000.0,
+  "gross": 13119000000.0,
+  "opex": 6852000000.0,
+  "operating": 6267000000.0,
+  "net": 4218000000.0,
+  "opex_items": "",
+  "web_path": "/en/earnings/abbv",
+  "prev_revenue": 15776000000.0,
+  "prev_gross": 10472000000.0,
+  "prev_operating": 1904000000.0,
+  "prev_net": 186000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "ABBV"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-Q",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1551152&type=10-Q"
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/03/earnings-abbv",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-04T12:08:28.465990-05:00"
+}
