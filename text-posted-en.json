@@ -112,5 +112,12 @@
   "key": "mortgage",
   "threads": "18056551244808040",
   "x": "buffer:6ae9eac67ee51e5b5126a9de"
+ },
+ {
+  "date": "2026-11-03",
+  "kind": "fact",
+  "key": "rate_year",
+  "threads": "18133551439748293",
+  "x": "buffer:6aea9381b8d162e0d8fa8e92"
  }
 ]
