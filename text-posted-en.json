@@ -119,5 +119,12 @@
   "key": "rate_year",
   "threads": "18133551439748293",
   "x": "buffer:6aea9381b8d162e0d8fa8e92"
+ },
+ {
+  "date": "2026-11-04",
+  "kind": "basics",
+  "key": "currency",
+  "threads": "17990830358871802",
+  "x": "buffer:6aeb3c438e3da7e721475455"
  }
 ]
