@@ -648,5 +648,15 @@
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/DfS11MTDidS/",
   "x": "buffer:6aea51609da2f6a2e96ff3d3"
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "morning",
+  "story_id": "story_20261104_morning_brief_en",
+  "key": "story_20261104_morning_brief_en",
+  "instagram": "https://www.instagram.com/p/DfUXIS0gcIe/",
+  "threads": "18351741382250030",
+  "design": "v2",
+  "x": "buffer:6aeb18a49074318735746c47"
  }
 ]
