@@ -112,5 +112,11 @@
   "kind": "fact",
   "key": "rate_year",
   "threads": "18130938599504288"
+ },
+ {
+  "date": "2026-11-05",
+  "kind": "basics",
+  "key": "best_days",
+  "threads": "18117309149591001"
  }
 ]
