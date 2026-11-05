@@ -1,0 +1,56 @@
+{
+ "schema_version": 1,
+ "id": "story_20261105_move_079550_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "LIG넥스원 주가 14.7% 뚝",
+ "summary_lines": [
+  "거래량이 평소(3개월 평균)의 1.65배였다",
+  "52주 최고가보다 67.9% 낮다"
+ ],
+ "facts": {
+  "name": "LIG넥스원",
+  "ticker": "079550",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "drop",
+  "price": 358500.0,
+  "change_pct": -14.74,
+  "market_cap": 7831522115584.0,
+  "volume": 204584,
+  "avg_volume_3m": 124299,
+  "volume_ratio": 1.65,
+  "high_52w": 1118000.0,
+  "from_high_pct": -67.9,
+  "as_of": "2026-11-05T06:30:24+00:00",
+  "ai_summary": false,
+  "news1_title": "법원 판단 D-1···LIG D&A 제재가 가를 KF-21 미사일 사업",
+  "news1_publisher": "뉴스웨이",
+  "design": "v2"
+ },
+ "tickers": [
+  "079550.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/079550.KS"
+  },
+  {
+   "name": "뉴스웨이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ybjFhTjJlM0FQSDZQR0dUbVF4T2NjMTFSQWs0eE9RTFhoZnNWVXM4RmZjTVJZWWVjYm9pMVBKcmtPM0xJSE1KczFEc2ZJUUtlazNmR1l5RGY3RVR1WFlGOXh2MEMydzJER1E?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/11/05/move-079550",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-05T16:08:36.088749+09:00"
+}
