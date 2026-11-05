@@ -691,5 +691,17 @@
   "threads": "18096905516682710",
   "design": "v2",
   "x": "buffer:6aec6496a5300fd99cc7b93b"
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "midday",
+  "story_id": "story_20261106_index_dow_en",
+  "key": "move:^DJI",
+  "instagram": "https://www.instagram.com/reel/DfXi0l9D_Hp/",
+  "threads": "17910367860576244",
+  "design": "v2",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/DfXi0l9D_Hp/",
+  "x": "buffer:6aecb9d19b4d9c55763768e5"
  }
 ]
