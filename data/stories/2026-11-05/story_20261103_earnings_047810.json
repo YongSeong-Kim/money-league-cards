@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "id": "story_20261103_earnings_047810",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "한국항공우주 7~9월 잠정실적: 100원 팔아 영업이익 7.5원",
+ "summary_lines": [
+  "매출 1.1조 원 (작년보다 +52%)",
+  "영업이익 794억 원 (작년보다 +32%), 영업이익률 8.6% → 7.5%",
+  "순이익 190억 원 (작년보다 -51%)"
+ ],
+ "facts": {
+  "company": "한국항공우주",
+  "ticker": "047810",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-11-03",
+  "as_of": "2026-11-03",
+  "revenue": 1064300000000.0,
+  "opex": 984900000000.0,
+  "operating": 79400000000.0,
+  "opex_items": "",
+  "net": 19000000000.0,
+  "prev_revenue": 702100000000.0,
+  "prev_operating": 60200000000.0,
+  "prev_net": 39000000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "047810.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800386"
+  }
+ ],
+ "web_slug": "/stories/2026/11/03/earnings-047810",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-05T12:08:08.404623+09:00"
+}
