@@ -746,5 +746,17 @@
   "instagram": null,
   "threads": "17978883495154593",
   "design": "v1"
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "midday",
+  "story_id": "story_20261107_index_nasdaq_en",
+  "key": "move:^IXIC",
+  "instagram": "https://www.instagram.com/reel/DfaHpVDFvQg/",
+  "threads": "18135813544685521",
+  "design": "v2",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/DfaHpVDFvQg/",
+  "x": "buffer:6aee0b62004e4879a7032eff"
  }
 ]

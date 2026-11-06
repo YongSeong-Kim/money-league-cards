@@ -1,0 +1,71 @@
+{
+ "schema_version": 1,
+ "id": "story_20261107_index_nasdaq_en",
+ "type": "stock_move",
+ "locale": "en",
+ "importance": 1,
+ "title": "Nasdaq drops 5.52%, its worst day since Apr 2025",
+ "summary_lines": [
+  "The 36th-worst day since 1971",
+  "Same day: S&P 500 -4.36%, Dow -3.44%",
+  "Now 11.9% below its 52-week high"
+ ],
+ "facts": {
+  "name": "Nasdaq",
+  "ticker": "Nasdaq",
+  "country": "US",
+  "currency": "PTS",
+  "signal": "index",
+  "price": 24315.0,
+  "prev_close": 25736.51,
+  "change_pct": -5.52,
+  "since": "2025-04-04",
+  "since_label": "Apr 2025",
+  "rank": 36,
+  "history_start": "1971-02-05",
+  "streak": 1,
+  "high_52w": 27599.79,
+  "from_high_pct": -11.9,
+  "as_of": "2026-11-05T16:00:00-05:00",
+  "ai_summary": false,
+  "news1_title": "Nasdaq rebounds as chips stocks recover from steep losses",
+  "news1_publisher": "Reuters",
+  "news2_title": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
+  "news2_publisher": "CBS News",
+  "news3_title": "Stock futures explained: how Dow, S&P 500 and Nasdaq-100 contracts work",
+  "news3_publisher": "qz.com",
+  "design": "v2"
+ },
+ "tickers": [
+  "^IXIC"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/^IXIC"
+  },
+  {
+   "name": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQang5czlMS1c0LVRiTWdNdXItcDlKcTgyOXplSVVGRHljMGVrVG1KVGJTclR0TmtjWjFob0t1QWh6OTdkNzltaDJhTi1fdUdkM2tOb01JaVVlaVRWcWVTdkZFbmdBYlgxY2ktWVh6eFdZRVczekVTdFRCSWtOSzBGVnNCWHpFNFFXWFE2WDVQUjFCa19tbUhzNzdlNksyNFBqek4tcXdrcjVIVTQxMkE?oc=5"
+  },
+  {
+   "name": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wQm5VYTdUdFdHMmVJQVZZN0JweHdoYXVsNXBaY21ONkE2NmZaTGd4V3lnLXpVVE05WlpvR3NiTUJIdEZMRHFCNlZqaXlWS29IOWF3VkRKTEdLVnR2SGpuZ2Q3dzhGYWVhWU9mN1NNT0pKSmdOTnV3NzRCZzk?oc=5"
+  },
+  {
+   "name": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNeEpLemJMTEtNbGF4eG5IWlVsY2pOdDBrbE1TNVNzWUVHMndvbFFfa2gzaVR4dDlMUnVOYUxtelhsbnVsLVl3UlV1V1R3d3VpSTRqdlFIUFFDYmF3VTNlblJqQ3VYdw?oc=5"
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/07/index-nasdaq",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-11-06T12:08:05.204117-05:00"
+}
