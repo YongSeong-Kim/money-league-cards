@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "id": "story_20261106_us_jobs_202610_en",
+ "type": "macro_release",
+ "locale": "en",
+ "importance": 1,
+ "title": "U.S. added 165K jobs in October; unemployment 4.1%",
+ "summary_lines": [
+  "Nonfarm payrolls: +165K (prior month +60K)",
+  "Unemployment rate: 4.1% (prior 4.2%)",
+  "First estimate; revised in later reports"
+ ],
+ "facts": {
+  "country": "US",
+  "period": "October 2026",
+  "released_at": "2026-11-06T08:30:00-05:00",
+  "forecast": null,
+  "indicator_name": "U.S. nonfarm payrolls, monthly change",
+  "unit": "K",
+  "actual": 165,
+  "previous": 60,
+  "signed": true,
+  "unrate": 4.1,
+  "unrate_prev": 4.2
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Bureau of Labor Statistics",
+   "url": "https://www.bls.gov/ces/"
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/06/us-jobs-2026-10",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-11-06T22:32:53.492156+09:00"
+}
