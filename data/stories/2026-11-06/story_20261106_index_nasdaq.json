@@ -1,0 +1,71 @@
+{
+ "schema_version": 1,
+ "id": "story_20261106_index_nasdaq",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 1,
+ "title": "나스닥 하루 -5.52%, 2025년 4월 이후 가장 큰 하락",
+ "summary_lines": [
+  "1971년 이후 하루 하락폭으로 36번째",
+  "같은 날 코스피 -5.28%, 코스닥 -5.11%",
+  "52주 최고치보다 11.9% 낮다"
+ ],
+ "facts": {
+  "name": "나스닥",
+  "ticker": "Nasdaq",
+  "country": "US",
+  "currency": "PTS",
+  "signal": "index",
+  "price": 24315.0,
+  "prev_close": 25736.51,
+  "change_pct": -5.52,
+  "since": "2025-04-04",
+  "since_label": "2025년 4월 이후",
+  "rank": 36,
+  "history_start": "1971-02-05",
+  "streak": 1,
+  "high_52w": 27599.79,
+  "from_high_pct": -11.9,
+  "as_of": "2026-11-05T16:00:00-05:00",
+  "ai_summary": false,
+  "news1_title": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입",
+  "news1_publisher": "연합뉴스",
+  "news2_title": "뉴욕증시 반등 하루 만에 폭락...기술주 투매에 나스닥 5.5%↓",
+  "news2_publisher": "YTN",
+  "news3_title": "나스닥 장중 4% 이상 급락…기술주 매도세에 조정장 진입",
+  "news3_publisher": "중앙일보",
+  "design": "v2"
+ },
+ "tickers": [
+  "^IXIC"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/^IXIC"
+  },
+  {
+   "name": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5"
+  },
+  {
+   "name": "YTN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13QWtsMDg1MFV3R2YxQjJkUWdKSHRtSjdzdzlTLVhlZ1VqWll5anh4blhOdWhSQ1Y5OTVWaFpMRXhRYjF0eF9BQkdMNzZYTTdhYmxJNi1JM1BYWGdFaXc?oc=5"
+  },
+  {
+   "name": "중앙일보",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWDNzbTlGdmJzMU9lb0c2V29pVDhsbndNVTR1UkNITk9YTjRJclhYV1BlMi16RFdTOEQ3VUQ0LXdEQUotUlo5ZkhaYUdBZktrbkdON0t3?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/11/06/index-nasdaq",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-11-06T12:07:58.363906+09:00"
+}

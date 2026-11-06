@@ -730,5 +730,16 @@
   "design": "v2",
   "reel": "https://www.instagram.com/reel/DfX-TOuAMG0/",
   "poll": "18121520183516766"
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "midday",
+  "story_id": "story_20261106_index_nasdaq",
+  "key": "move:^IXIC",
+  "instagram": "https://www.instagram.com/reel/DfYnq6UkeJc/",
+  "threads": "18143084929715195",
+  "design": "v2",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/DfYnq6UkeJc/"
  }
 ]
