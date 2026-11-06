@@ -124,5 +124,11 @@
   "kind": "fact",
   "key": "ten_years_ago",
   "threads": "18112084415268582"
+ },
+ {
+  "date": "2026-11-06",
+  "kind": "basics",
+  "key": "real_rate",
+  "threads": "18060942665586698"
  }
 ]
