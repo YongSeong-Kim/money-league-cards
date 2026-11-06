@@ -1,0 +1,44 @@
+{
+ "schema_version": 1,
+ "id": "story_20261106_us_jobs_202610_ko",
+ "type": "macro_release",
+ "locale": "ko",
+ "importance": 1,
+ "title": "미국 10월 일자리 +16.5만 명, 실업률 4.1%",
+ "summary_lines": [
+  "비농업 일자리 전달 대비 +16.5만 명 (전달 +6.0만 명)",
+  "실업률 4.1% (전달 4.2%)",
+  "다음 달 발표 때 수정될 수 있는 속보치예요"
+ ],
+ "facts": {
+  "country": "US",
+  "period": "2026년 10월",
+  "released_at": "2026-11-06T08:30:00-05:00",
+  "forecast": null,
+  "indicator_name": "미국 비농업 일자리, 전달 대비",
+  "unit": "만 명",
+  "actual": 16.5,
+  "previous": 6.0,
+  "signed": true,
+  "unrate": 4.1,
+  "unrate_prev": 4.2
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "U.S. Bureau of Labor Statistics",
+   "url": "https://www.bls.gov/ces/"
+  }
+ ],
+ "web_slug": "/stories/2026/11/06/us-jobs-2026-10",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-11-06T22:32:48.211892+09:00"
+}

@@ -763,5 +763,15 @@
   "x": null,
   "photo": "us_jobs/now-hiring-sign.jpg",
   "seconds_after_release": 187
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "release",
+  "story_id": "story_20261106_us_jobs_202610_ko",
+  "key": "story_20261106_us_jobs_202610_ko",
+  "instagram": "https://www.instagram.com/reel/DfZuYjojIcX/",
+  "threads": "18002137679816630",
+  "design": "v1",
+  "reel": "https://www.instagram.com/reel/DfZuYjojIcX/"
  }
 ]
