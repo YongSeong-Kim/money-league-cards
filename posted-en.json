@@ -715,5 +715,16 @@
   "cover_photo": false,
   "poll": "18044972018832578",
   "x": "buffer:6aecf3cc30c2a60197e43692"
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "morning",
+  "story_id": "story_20261106_morning_brief_en",
+  "key": "story_20261106_morning_brief_en",
+  "instagram": "https://www.instagram.com/p/DfZd_2yFBWN/",
+  "threads": "18133551631813101",
+  "design": "v2",
+  "poll": "18089457995313333",
+  "x": "buffer:6aedb626f1ee5df4191f686b"
  }
 ]
