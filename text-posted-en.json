@@ -140,5 +140,12 @@
   "key": "best_days",
   "threads": "17966791752198796",
   "x": "buffer:6aec8ddd0a5aa24b714b8ffb"
+ },
+ {
+  "date": "2026-11-05",
+  "kind": "fact",
+  "key": "nikkei_wait",
+  "threads": "18181494796431218",
+  "x": "buffer:6aed3678c1e74b84e5be7108"
  }
 ]
