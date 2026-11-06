@@ -147,5 +147,12 @@
   "key": "nikkei_wait",
   "threads": "18181494796431218",
   "x": "buffer:6aed3678c1e74b84e5be7108"
+ },
+ {
+  "date": "2026-11-06",
+  "kind": "basics",
+  "key": "real_rate",
+  "threads": "17955328023320321",
+  "x": "buffer:6aeddf44730edf821ad49410"
  }
 ]
