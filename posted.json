@@ -741,5 +741,16 @@
   "design": "v2",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/DfYnq6UkeJc/"
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "evening",
+  "story_id": "story_20261106_index_kospi",
+  "key": "move:^KS11",
+  "instagram": "https://www.instagram.com/reel/DfZDJmVGdId/",
+  "threads": "17876681508637888",
+  "design": "v2",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/DfZDJmVGdId/"
  }
 ]
