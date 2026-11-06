@@ -130,5 +130,11 @@
   "kind": "basics",
   "key": "real_rate",
   "threads": "18060942665586698"
+ },
+ {
+  "date": "2026-11-06",
+  "kind": "fact",
+  "key": "nikkei_wait",
+  "threads": "18123696356291056"
  }
 ]
