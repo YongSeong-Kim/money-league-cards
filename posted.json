@@ -752,5 +752,16 @@
   "design": "v2",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/DfZDJmVGdId/"
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "justin",
+  "story_id": "story_20261106_us_jobs_202610_ko",
+  "key": "justin:us_jobs:2026-11-06",
+  "instagram": null,
+  "threads": "18002137679816630",
+  "x": null,
+  "photo": "us_jobs/now-hiring-sign.jpg",
+  "seconds_after_release": 187
  }
 ]
