@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "id": "story_20261103_earnings_aapl_en",
+ "type": "earnings_flow",
+ "locale": "en",
+ "importance": 2,
+ "title": "Apple FY2026 Q4: $31 of every $100 in sales was operating profit",
+ "summary_lines": [
+  "Revenue $114.5B (+12% y/y)",
+  "Operating income $35.6B (+10% y/y), margin 32% -> 31%",
+  "Net income $30.7B (+12% y/y)"
+ ],
+ "facts": {
+  "company": "Apple",
+  "ticker": "AAPL",
+  "fiscal": "FY2026 Q4",
+  "period": "Jul-Sep",
+  "period_end": "2026-09-26",
+  "form": "10-K",
+  "filed": "2026-11-03",
+  "as_of": "2026-11-03",
+  "revenue": 114477000000.0,
+  "cost": 59657000000.0,
+  "gross": 54820000000.0,
+  "opex": 19189000000.0,
+  "operating": 35631000000.0,
+  "net": 30711000000.0,
+  "opex_items": "rd,sm,ga",
+  "web_path": "/en/earnings/aapl",
+  "opex_rd": 11730000000.0,
+  "opex_sm": 5502000000.0,
+  "opex_ga": 1957000000.0,
+  "prev_revenue": 102466000000.0,
+  "prev_gross": 48341000000.0,
+  "prev_operating": 32427000000.0,
+  "prev_net": 27466000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "AAPL"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "SEC EDGAR 10-K",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=320193&type=10-K"
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/03/earnings-aapl",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-06T16:27:04.919422-05:00"
+}
