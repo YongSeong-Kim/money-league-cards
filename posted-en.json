@@ -726,5 +726,16 @@
   "design": "v2",
   "poll": "18089457995313333",
   "x": "buffer:6aedb626f1ee5df4191f686b"
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "justin",
+  "story_id": "story_20261106_us_jobs_202610_en",
+  "key": "justin:us_jobs:2026-11-06",
+  "instagram": null,
+  "threads": "17978883495154593",
+  "x": "buffer:6aedd71af6d00f3472b50d0d",
+  "photo": "us_jobs/now-hiring-sign.jpg",
+  "seconds_after_release": 194
  }
 ]
