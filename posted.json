@@ -804,5 +804,15 @@
   "design": "v2",
   "cover_photo": false,
   "reel": "https://www.instagram.com/reel/Dfbn9CmnY8b/"
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "morning",
+  "story_id": "story_20261108_weekly_markets",
+  "key": "table:weekly_markets",
+  "instagram": "https://www.instagram.com/reel/DfdH7efj_-y/",
+  "threads": null,
+  "design": "v2",
+  "reel": "https://www.instagram.com/reel/DfdH7efj_-y/"
  }
 ]
