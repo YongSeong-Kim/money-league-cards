@@ -779,5 +779,17 @@
   "threads": "18131190715840740",
   "design": "v2",
   "x": "buffer:6aef0869af7e526d431950f9"
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "midday",
+  "story_id": "story_20261108_index_nikkei_en",
+  "key": "move:^N225",
+  "instagram": "https://www.instagram.com/reel/DfcsUnmDjCm/",
+  "threads": "18641179498054915",
+  "design": "v2",
+  "cover_photo": false,
+  "reel": "https://www.instagram.com/reel/DfcsUnmDjCm/",
+  "x": "buffer:6aef5cb0229bf05daf6321f5"
  }
 ]
