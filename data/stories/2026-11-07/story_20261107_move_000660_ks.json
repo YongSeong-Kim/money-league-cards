@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "id": "story_20261107_move_000660_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "하루 만에 10.4% 내린 SK하이닉스",
+ "summary_lines": [
+  "거래량이 평소(3개월 평균)의 2.14배였다",
+  "52주 최고가보다 62.1% 낮다"
+ ],
+ "facts": {
+  "name": "SK하이닉스",
+  "ticker": "000660",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "drop",
+  "price": 1132000.0,
+  "change_pct": -10.44,
+  "market_cap": 798256179183616.0,
+  "volume": 7907029,
+  "avg_volume_3m": 3694954,
+  "volume_ratio": 2.14,
+  "high_52w": 2987000.0,
+  "from_high_pct": -62.1,
+  "as_of": "2026-11-06T06:30:05+00:00",
+  "ai_summary": false,
+  "news1_title": "” TSMC, 엔비디아 요청에 3D D램 진출 검토”…삼성·SK하이닉스 경쟁 가능성.. : 이슈인사이드",
+  "news1_publisher": "재경일보",
+  "news2_title": "한동훈 “삼성전자·SK하이닉스에 국민연금 몰빵” 비판…국민연금 주식 평가액 182조 감소… : 정치",
+  "news2_publisher": "재경일보",
+  "news3_title": "“삼전닉스 믿고 버텼는데”…삼성전자 6%·SK하이닉스 10% 급락…”울고 싶다” “연봉 날아갈 판”…삼전닉스 등 증시 폭락에 개미들 패닉",
+  "news3_publisher": "재경일보",
+  "design": "v2"
+ },
+ "tickers": [
+  "000660.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+   "name": "재경일보",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpR1BQakh2RmJxTFU3bG16STBhMkZuMTJMVGVJQ2RELTc1ckt0ekFKcmVHOUpsSXdWRl8zRGFUdVhyNlNvdGtwTU9BOA?oc=5"
+  },
+  {
+   "name": "재경일보",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56WFVzTUpLQV9SNkN2ajNqSnV0VEtXRDkzb05pN2xSOHlXbzVOWGh4cFpJbjdMMTkzSWNPREJiZjYtM1pZNFZ6YU5UQQ?oc=5"
+  },
+  {
+   "name": "재경일보",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XdjY1b0hQMWlXVm5US19EX1lhTVIwaWozZEhWYlA5cmR2RTFMQ0ducVNQSVY5NTh1bVZ5QVBSenhYUUVrRzd6b284bw?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/11/07/move-000660",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-07T16:07:59.448029+09:00"
+}
