@@ -136,5 +136,11 @@
   "kind": "fact",
   "key": "nikkei_wait",
   "threads": "18123696356291056"
+ },
+ {
+  "date": "2026-11-07",
+  "kind": "basics",
+  "key": "drops_are_normal",
+  "threads": "17936259672143373"
  }
 ]
