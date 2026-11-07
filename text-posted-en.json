@@ -154,5 +154,12 @@
   "key": "real_rate",
   "threads": "17955328023320321",
   "x": "buffer:6aeddf44730edf821ad49410"
+ },
+ {
+  "date": "2026-11-06",
+  "kind": "fact",
+  "key": "worst_year_next",
+  "threads": "18103534031643960",
+  "x": "buffer:6aee8803af7e526d43f4a989"
  }
 ]
