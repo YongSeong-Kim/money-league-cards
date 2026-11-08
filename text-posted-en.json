@@ -168,5 +168,12 @@
   "key": "drops_are_normal",
   "threads": "18320060749303009",
   "x": "buffer:6aef30c8d6bbae6fa18f4b16"
+ },
+ {
+  "date": "2026-11-07",
+  "kind": "fact",
+  "key": "big_down_days",
+  "threads": "18115270274134283",
+  "x": "buffer:6aefd97f9214322f682926c7"
  }
 ]
