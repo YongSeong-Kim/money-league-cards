@@ -822,5 +822,15 @@
   "design": "v2",
   "reel": "https://www.instagram.com/reel/DffQkNzDUVx/",
   "x": "buffer:6af0ad01d6bbae6fa1ff277f"
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "evening",
+  "story_id": "story_20261109_econ_calendar_en",
+  "key": "story_20261109_econ_calendar_en",
+  "instagram": null,
+  "threads": null,
+  "design": "v2",
+  "x": "buffer:6af0e79751492b796e60e216"
  }
 ]
