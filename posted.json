@@ -814,5 +814,15 @@
   "threads": null,
   "design": "v2",
   "reel": "https://www.instagram.com/reel/DfdH7efj_-y/"
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "midday",
+  "story_id": "story_20261108_weekly_news",
+  "key": "story_20261108_weekly_news",
+  "instagram": "https://www.instagram.com/reel/Dfdw9XWgUXZ/",
+  "threads": "18031017527922538",
+  "design": "v2",
+  "reel": "https://www.instagram.com/reel/Dfdw9XWgUXZ/"
  }
 ]
