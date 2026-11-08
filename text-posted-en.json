@@ -175,5 +175,12 @@
   "key": "big_down_days",
   "threads": "18115270274134283",
   "x": "buffer:6aefd97f9214322f682926c7"
+ },
+ {
+  "date": "2026-11-08",
+  "kind": "basics",
+  "key": "fees",
+  "threads": "18122060665987439",
+  "x": "buffer:6af082419214322f68596b2f"
  }
 ]
