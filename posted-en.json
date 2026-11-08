@@ -811,5 +811,16 @@
   "threads": "18223039132353008",
   "design": "v2",
   "x": "buffer:6af059f69214322f684bd0b0"
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "midday",
+  "story_id": "story_20261108_weekly_news_en",
+  "key": "story_20261108_weekly_news_en",
+  "instagram": "https://www.instagram.com/reel/DffQkNzDUVx/",
+  "threads": "17998926690105808",
+  "design": "v2",
+  "reel": "https://www.instagram.com/reel/DffQkNzDUVx/",
+  "x": "buffer:6af0ad01d6bbae6fa1ff277f"
  }
 ]

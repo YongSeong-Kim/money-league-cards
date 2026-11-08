@@ -1,0 +1,63 @@
+{
+ "schema_version": 1,
+ "id": "story_20261108_weekly_news_en",
+ "type": "weekly_news",
+ "locale": "en",
+ "importance": 1,
+ "title": "5 money stories you might've missed this week",
+ "summary_lines": [
+  "Stock futures rebound after a brutal week",
+  "US job growth surges as economy adds 165,000 jobs",
+  "Tech stocks and indexes plunge"
+ ],
+ "facts": {
+  "week_start": "2026-11-02",
+  "week_end": "2026-11-08",
+  "count": 5,
+  "as_of": "2026-11-08T12:08:32.765877-05:00",
+  "n1_headline": "Stock futures rebound after a brutal week",
+  "n1_line": "Stock futures rise premarket as oil prices retreat and the selloff halts.",
+  "n1_publishers": 45,
+  "n1_day": "2026-11-02",
+  "n1_weekday": "Mon",
+  "n2_headline": "US job growth surges as economy adds 165,000 jobs",
+  "n2_line": "The US added 165,000 jobs in October and crushed expectations.",
+  "n2_publishers": 26,
+  "n2_day": "2026-11-07",
+  "n2_weekday": "Sat",
+  "n3_headline": "Tech stocks and indexes plunge",
+  "n3_line": "Tech stocks and major indexes suffered a historic plunge.",
+  "n3_publishers": 31,
+  "n3_day": "2026-11-04",
+  "n3_weekday": "Wed",
+  "n4_headline": "Democratic leaders reflect on midterm results and what's next for the party",
+  "n4_line": "",
+  "n4_publishers": 31,
+  "n4_day": "2026-11-05",
+  "n4_weekday": "Thu",
+  "n5_headline": "Tech stocks bounce after a $2.5 trillion wipeout",
+  "n5_line": "The Nasdaq and AI stocks rallied after a brutal $2.5 trillion sell-off.",
+  "n5_publishers": 21,
+  "n5_day": "2026-11-07",
+  "n5_weekday": "Sat",
+  "design": "v2"
+ },
+ "tickers": [],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Google News",
+   "url": null
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/08/weekly-news",
+ "channels": {
+  "push": true,
+  "web": true,
+  "instagram": true,
+  "threads": true,
+  "newsletter": true
+ },
+ "status": "draft",
+ "created_at": "2026-11-08T12:08:32.765877-05:00"
+}
