@@ -1,0 +1,6 @@
+{
+ "en": {
+  "since": "2026-11-08T21:20+00:00",
+  "reason": "계정 확인 실패 400 {\"error\":{\"message\":\"Error validating access token: This Threads account needs to complete a checkpoint before it can access this app. To recover access, log in to www.threads.com and follow the instr"
+ }
+}
