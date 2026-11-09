@@ -189,5 +189,12 @@
   "key": "ytd_race",
   "threads": null,
   "x": "buffer:6af12aee7b44a3a79dadd7c7"
+ },
+ {
+  "date": "2026-11-09",
+  "kind": "basics",
+  "key": "inflation",
+  "threads": null,
+  "x": "buffer:6af1d3b2f35adac6ed1709ab"
  }
 ]
