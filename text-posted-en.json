@@ -182,5 +182,12 @@
   "key": "fees",
   "threads": "18122060665987439",
   "x": "buffer:6af082419214322f68596b2f"
+ },
+ {
+  "date": "2026-11-08",
+  "kind": "fact",
+  "key": "ytd_race",
+  "threads": null,
+  "x": "buffer:6af12aee7b44a3a79dadd7c7"
  }
 ]
