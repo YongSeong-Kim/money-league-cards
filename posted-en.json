@@ -842,5 +842,15 @@
   "threads": null,
   "design": "v2",
   "x": "buffer:6af1aae956a4abd5c29135f8"
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "midday",
+  "story_id": "story_20261109_scale_nvda_uber_en",
+  "key": "scale",
+  "instagram": null,
+  "threads": null,
+  "design": "v2",
+  "x": "buffer:6af1fe5c704ab85a6bd7c8d9"
  }
 ]

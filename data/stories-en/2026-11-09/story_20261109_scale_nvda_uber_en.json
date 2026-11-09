@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "id": "story_20261109_scale_nvda_uber_en",
+ "type": "scale_compare",
+ "locale": "en",
+ "importance": 2,
+ "title": "Nvidia lost more in one day than all of Uber Technologies is worth",
+ "summary_lines": [
+  "Nvidia lost $228B in market value on Monday (-5.06%)",
+  "All of Uber Technologies is worth $143B",
+  "That's 1.6x the whole of Uber Technologies, in one day"
+ ],
+ "facts": {
+  "subject_label": "Nvidia's one-day loss",
+  "subject_symbol": "NVDA",
+  "subject_value": 228042577954.08298,
+  "object_label": "All of Uber Technologies",
+  "object_symbol": "UBER",
+  "object_value": 142667431936.0,
+  "currency": "USD",
+  "direction": "down",
+  "change_pct": -5.06,
+  "as_of": "2026-11-09T17:08:23+00:00",
+  "design": "v2"
+ },
+ "tickers": [
+  "NVDA",
+  "UBER"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": null
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/09/scale-nvda-uber",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-09T12:08:19.448403-05:00"
+}
