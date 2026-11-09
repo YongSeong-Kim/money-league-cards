@@ -852,5 +852,16 @@
   "threads": null,
   "design": "v2",
   "x": "buffer:6af1fe5c704ab85a6bd7c8d9"
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "evening",
+  "story_id": "story_20261110_move_amd_en",
+  "key": "move:AMD",
+  "instagram": null,
+  "threads": null,
+  "design": "v2",
+  "cover_photo": false,
+  "x": "buffer:6af2386621c8282e5bf30cab"
  }
 ]

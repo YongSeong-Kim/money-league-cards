@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "id": "story_20261110_move_amd_en",
+ "type": "stock_move",
+ "locale": "en",
+ "importance": 2,
+ "title": "AMD pops 13.26% on Google deal and Wall Street upgrade",
+ "summary_lines": [
+  "Reports say AMD lands a key role in a new Google system and gets an upgrade.",
+  "Trading was 2.27x a normal day."
+ ],
+ "facts": {
+  "name": "AMD",
+  "ticker": "AMD",
+  "country": "US",
+  "currency": "USD",
+  "signal": "spike",
+  "price": 508.58,
+  "change_pct": 13.26,
+  "market_cap": 834115600384.0,
+  "volume": 50696597,
+  "avg_volume_3m": 22343507,
+  "volume_ratio": 2.27,
+  "high_52w": 658.52,
+  "from_high_pct": -22.8,
+  "as_of": "2026-11-09T21:00:01+00:00",
+  "ai_summary": true,
+  "news1_title": "Analyzing AMD as a near-term beneficiary of Nvidia’s leadership uncertainty",
+  "news1_publisher": "Investing.com",
+  "news2_title": "AMD Lands Key Role in Google's New AI Chip System as Nvidia Rivalry Intensifies",
+  "news2_publisher": "Benzinga Prediction Markets",
+  "news3_title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade",
+  "news3_publisher": "Investor's Business Daily",
+  "design": "v2"
+ },
+ "tickers": [
+  "AMD"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/AMD"
+  },
+  {
+   "name": "Investing.com",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/analyzing-amd-near-term-beneficiary-210952293.html"
+  },
+  {
+   "name": "Benzinga Prediction Markets",
+   "url": "https://finance.yahoo.com/technology/ai/articles/amd-lands-key-role-googles-191648789.html"
+  },
+  {
+   "name": "Investor's Business Daily",
+   "url": "https://finance.yahoo.com/m/544d9f43-0b7f-3c42-b942-64d1474d8198/amd-stock-rises-on-google.html"
+  }
+ ],
+ "web_slug": "/en/stories/2026/11/10/move-amd",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-09T16:16:40.629210-05:00"
+}
