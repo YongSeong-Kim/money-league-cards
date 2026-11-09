@@ -832,5 +832,15 @@
   "threads": null,
   "design": "v2",
   "x": "buffer:6af0e79751492b796e60e216"
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "morning",
+  "story_id": "story_20261109_morning_brief_en",
+  "key": "story_20261109_morning_brief_en",
+  "instagram": null,
+  "threads": null,
+  "design": "v2",
+  "x": "buffer:6af1aae956a4abd5c29135f8"
  }
 ]
