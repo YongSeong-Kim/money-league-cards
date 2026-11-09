@@ -1,0 +1,68 @@
+{
+ "schema_version": 1,
+ "id": "story_20261109_move_006400_ks",
+ "type": "stock_move",
+ "locale": "ko",
+ "importance": 2,
+ "title": "삼성SDI, 하루 11.3% 급락",
+ "summary_lines": [
+  "거래량이 평소(3개월 평균)의 2.29배였다",
+  "52주 최고가보다 42.6% 낮다"
+ ],
+ "facts": {
+  "name": "삼성SDI",
+  "ticker": "006400",
+  "country": "KR",
+  "currency": "KRW",
+  "signal": "drop",
+  "price": 415000.0,
+  "change_pct": -11.32,
+  "market_cap": 32657857576960.0,
+  "volume": 1198033,
+  "avg_volume_3m": 522489,
+  "volume_ratio": 2.29,
+  "high_52w": 723000.0,
+  "from_high_pct": -42.6,
+  "as_of": "2026-11-09T06:30:01+00:00",
+  "ai_summary": false,
+  "news1_title": "삼성SDI 주가 10%대 급락…40만원선 사수 여부 '촉각'",
+  "news1_publisher": "CBC뉴스",
+  "news2_title": "삼성SDI 손잡은 '아틀라스'…테슬라 옵티머스에 도전장",
+  "news2_publisher": "파이낸셜포스트",
+  "news3_title": "[특징주] 삼성SDI, 장중 8%대 하락세…42만원대로 밀려 : 기업주식정보",
+  "news3_publisher": "재경일보",
+  "design": "v2"
+ },
+ "tickers": [
+  "006400.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/006400.KS"
+  },
+  {
+   "name": "CBC뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkSjNNUU9sbEEyWllaZzFnNTZZZzdCMTByLU5zbFZ2QzFPUS1BUUluTGY5Vk9PSGZ6NjU5UjlTa1l0YWhEblpZYUFBdGw4dXhWa2VfZmtGaHJGdDFkNEhHMkE3RVZYZWU1?oc=5"
+  },
+  {
+   "name": "파이낸셜포스트",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqTnJKUkpoek9GdlFYLWFLRFl1TUdFVkpld0RvR1k0cFdxbC1Vb255Ync3WWRKSGl2RURhVF9UQ1JQYjJXRjB5VE1hXzRQSG1DSU1iNFF0d0JmRC1XaGpDUndtcnZ1SVM5dDNZNlBoRHk5dXRO?oc=5"
+  },
+  {
+   "name": "재경일보",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nT2dJNkVYSERWRFMzOHE3SERDa2drblc3WlVjSloycVJsT01oeXk3TThVeUZ6aF9GVXhyc3JGWDI5OVFQc2ZuSE5kYw?oc=5"
+  }
+ ],
+ "web_slug": "/stories/2026/11/09/move-006400",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-09T16:08:00.687554+09:00"
+}
