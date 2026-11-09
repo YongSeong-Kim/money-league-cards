@@ -1,0 +1,201 @@
+{
+ "as_of": "2026-11-09T06:09:20.506028-05:00",
+ "locale": "en",
+ "items": [
+  {
+   "score": 41.9,
+   "title": "US Stocks Rise as Oil Drop Outweighs Nvidia Woes: Markets Wrap",
+   "publisher": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
+   "publishers": [
+    "Bloomberg.com",
+    "CNBC",
+    "Yahoo Finance",
+    "Reuters",
+    "Barron's",
+    "Recycling Today",
+    "Yahoo Finance UK",
+    "TradingView",
+    "Investing.com",
+    "The Globe and Mail"
+   ],
+   "titles": [
+    "US Stocks Rise as Oil Drop Outweighs Nvidia Woes: Markets Wrap",
+    "Stock futures rise as investors eye AI trade, brace for more data and earnings: Live updates",
+    "Wall St futures rise after rough week, but Nvidia unsettles investors",
+    "Stocks edge up but Nvidia woes pose a fresh test, oil falls",
+    "Stock Futures Are Drifting Higher on Sunday",
+    "Tenaris earnings rise year on year",
+    "3 British Growth Stocks With Earnings Growth Over 24%",
+    "Gubra Q3 2026 Earnings Call Is Live"
+   ],
+   "feeds": [
+    "business",
+    "q:earnings",
+    "q:economy",
+    "q:inflation",
+    "q:stock market",
+    "top"
+   ],
+   "headline": "US stocks rise despite Nvidia woes",
+   "lines": [
+    "Stock futures are moving higher following a rough week.",
+    "Falling oil prices help offset tech sector worries."
+   ]
+  },
+  {
+   "score": 31.4,
+   "title": "China Producer Inflation Accelerates to Over Four-Year High",
+   "publisher": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
+   "publishers": [
+    "WSJ",
+    "CNBC",
+    "Financial Times",
+    "Bloomberg",
+    "Reuters",
+    "ing think",
+    "Idaho Statesman",
+    "South China Morning Post",
+    "IndexBox",
+    "The Business Times",
+    "marketscreener.com",
+    "TradingView",
+    "VOI.ID"
+   ],
+   "titles": [
+    "China Producer Inflation Accelerates to Over Four-Year High",
+    "China wholesale inflation hits highest in more than four years as consumer measure slows",
+    "China’s producer prices hit four-year high",
+    "Chinese Producer Inflation Hits 5.7% for Post-Covid Era High",
+    "China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates",
+    "China’s inflation cooled in October amid falling food prices",
+    "China's October producer inflation quickens further, consumer prices edge down",
+    "China’s factory gate inflation accelerates with highest PPI increase since 2022"
+   ],
+   "feeds": [
+    "business",
+    "q:economy",
+    "q:inflation"
+   ],
+   "headline": "China producer inflation hits a four-year high",
+   "lines": [
+    "China factory gate inflation accelerated to the highest level in over four years.",
+    "Meanwhile, consumer prices cooled down as food costs dropped."
+   ]
+  },
+  {
+   "score": 30.9,
+   "title": "Asian stock markets climb after earlier tech rout",
+   "publisher": "Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExPbUF0LU5VaFFCYVpvLVFpaFdIclBKUXJtYk9LQXM2ODZyUmMzU1QwNE10MHA3bU5uSTJSQ2VDQ1E0MEo2SmJxd0hJcjFseHRmYWdTbjhkMnU2OTVneHlpbExSbjgyR2F6MDJ4WTNxUWpjZW9OU1l4UWlOYmFrUk5wRTZVMlEwMG9zS1p4UGdPYjJZV09pSNIBngFBVV95cUxORlBpVTZtXzJuQXB2UlpsSlhNbEJlLXF1TjFxbVJlVl9KbUhpN0JCS0JvWTN0bkJsb2lVVGtiMjgzNkZQaW1sOFYxamN3NXFDZHFVQXgxdGZXdUhid2p0elBlcldGNko5ejluSU1DWFZpWEUxREozTUVsdS0xZGdkY3FpUVNIWWVXbkE2NkFqS01VSnFYQzhhM3ZtNzE3Zw?oc=5",
+   "publishers": [
+    "Al Jazeera",
+    "Yahoo Finance",
+    "CNBC",
+    "AP News",
+    "WSJ",
+    "WRAL",
+    "Bloomberg.com",
+    "KSAT"
+   ],
+   "titles": [
+    "Asian stock markets climb after earlier tech rout",
+    "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets",
+    "Asian chip stocks in South Korea and Taiwan gain despite Nvidia scrutiny",
+    "World markets bounce back after a recovery for AI stocks on Wall Street",
+    "Asian Equities Mostly Rebound, Though Sentiment Remains Fragile",
+    "World markets bounce back after a recovery for AI stocks on Wall Street",
+    "Taiwan Stocks Jump as Authorities Move to Stem Market Rout",
+    "Asian markets bounce back after a recovery for AI stocks on Wall Street"
+   ],
+   "feeds": [
+    "business",
+    "q:stock market",
+    "top"
+   ],
+   "headline": "Asian and world markets bounce back",
+   "lines": [
+    "Asian and world markets climbed after AI stocks recovered on Wall Street.",
+    "Chip stocks in South Korea and Taiwan gained despite Nvidia scrutiny."
+   ]
+  },
+  {
+   "score": 30.8,
+   "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+   "publisher": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcndzRG1jRHQ5c25nX1RuQVVNeXJUXzNnemotNFRpWGhwUGNCN3hmV2VkMndSVkl4V1hIMmhUMDhjWTJFa1BYckVYM1BkX0ZMMEQ2WmFxRGRhYXFtNzVJQUEtNW9PaUhfekFYM1RWeG0xbldSZlcwVldGZXVXVjNvcDdNN2dReWFqM3c?oc=5",
+   "publishers": [
+    "CNBC",
+    "Axios",
+    "The Economist",
+    "NVIDIA Newsroom",
+    "The New York Times",
+    "Investor's Business Daily",
+    "Yahoo Finance",
+    "Investing.com"
+   ],
+   "titles": [
+    "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+    "AI's \"too big to fail\" CEO is facing a crisis with no backup",
+    "Can Nvidia’s boss survive a Chinese-spy controversy?",
+    "Statement From NVIDIA Board of Directors",
+    "What is MegaSpeed? The Nvidia chip buyer in the spotlight after Jensen Haung’s affair",
+    "Nvidia’s Stock Price Set to Drop After Investigation Into CEO Jensen Huang",
+    "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
+    "Nvidia CEO Jensen Huang just made his already surprisingly cheap stock that much cheaper"
+   ],
+   "feeds": [
+    "business",
+    "q:stock market",
+    "top"
+   ],
+   "headline": "Nvidia probes CEO Jensen Huang over spy controversy",
+   "lines": [
+    "Nvidia's probing CEO Jensen Huang over ties to an alleged Chinese spy.",
+    "Reports say the stock fell 5% and the boss faces a crisis with no backup."
+   ]
+  },
+  {
+   "score": 26.7,
+   "title": "Kevin Warsh’s Expected Rate Hike Is a Warning to Retirees That the Fed Won’t Rescue Stocks",
+   "publisher": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjJ2QkhCZ3JEcDZoWko4QzFfaVJzZTMwMlRjcnVsRGJ4bDRCTzBGWk80LW1TR1BCS3JhbXh3ZW1LRjkyYVlSTDhTNnpfQkNMelRjSC1abmVMbzF4d1hTNm5XTGVxdlRRN3A2LUh0QlBGQ2phX3VXdmRBNDlySnlYWS0zN3gtbVVYM1pma0g4WUwwUDZ3U00wcFlvSQ?oc=5",
+   "publishers": [
+    "Yahoo Finance",
+    "The Motley Fool",
+    "Vietnam.vn",
+    "Seeking Alpha",
+    "AOL.com",
+    "FXStreet",
+    "KVII",
+    "MLQ.ai",
+    "Bloomberg",
+    "bloomingbit",
+    "Crypto Briefing",
+    "Investing.com"
+   ],
+   "titles": [
+    "Kevin Warsh’s Expected Rate Hike Is a Warning to Retirees That the Fed Won’t Rescue Stocks",
+    "If the Fed Raises Interest Rates in December, I'm Making This 1 Investing Move",
+    "Despite strong pressure from officials, the market is still reducing its bets on a Fed interest rate hike in December. Why?",
+    "December rate hikes could mark turning point for markets (TLT:NASDAQ)",
+    "Markets Are Pricing in a Fed Rate Hike in December. Here's What Investors Should Do, According to History.",
+    "Federal Reserve: December rate hike view reinforced – Commerzbank",
+    "Fed move to raise rates was a 'serious' and 'responsible' decision: Warsh",
+    "What Fed Chair Kevin Warsh said about AI and interest rates: 'Interest rates get in the cracks'"
+   ],
+   "feeds": [
+    "business",
+    "q:Federal Reserve",
+    "q:earnings",
+    "q:inflation"
+   ],
+   "headline": "Markets debate December Fed rate hike",
+   "lines": [
+    "Markets are pricing in a potential Federal Reserve rate hike in December.",
+    "Kevin Warsh called the move serious and it's a warning to retirees."
+   ]
+  }
+ ]
+}
