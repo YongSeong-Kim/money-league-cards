@@ -1,0 +1,54 @@
+{
+ "schema_version": 1,
+ "id": "story_20261109_earnings_000150",
+ "type": "earnings_flow",
+ "locale": "ko",
+ "importance": 2,
+ "title": "두산 7~9월 잠정실적: 100원 팔아 영업이익 8.5원",
+ "summary_lines": [
+  "매출 5.4조 원 (작년보다 +22%)",
+  "영업이익 4,594억 원 (작년보다 +98%), 영업이익률 5.2% → 8.5%",
+  "순이익 1,031억 원 (작년보다 -8%)"
+ ],
+ "facts": {
+  "company": "두산",
+  "ticker": "000150",
+  "market": "KOSPI",
+  "currency": "KRW",
+  "fiscal": "Q3 2026",
+  "period": "7~9월",
+  "period_end": "2026-09-30",
+  "form": "잠정실적",
+  "filed": "2026-11-09",
+  "as_of": "2026-11-09",
+  "revenue": 5426900000000.0,
+  "opex": 4967500000000.0,
+  "operating": 459400000000.0,
+  "opex_items": "",
+  "net": 103100000000.0,
+  "prev_revenue": 4440900000000.0,
+  "prev_operating": 231500000000.0,
+  "prev_net": 111500000000.0,
+  "design": "v2"
+ },
+ "tickers": [
+  "000150.KS"
+ ],
+ "my_money_hook": null,
+ "sources": [
+  {
+   "name": "DART 잠정실적 공시",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800403"
+  }
+ ],
+ "web_slug": "/stories/2026/11/09/earnings-000150",
+ "channels": {
+  "push": false,
+  "web": true,
+  "instagram": false,
+  "threads": true,
+  "newsletter": false
+ },
+ "status": "draft",
+ "created_at": "2026-11-10T16:09:39.427275+09:00"
+}
