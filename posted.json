@@ -875,5 +875,15 @@
   "threads": null,
   "design": "v2",
   "reel": "https://www.instagram.com/reel/DfiReRUjTWD/"
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "midday",
+  "story_id": "story_20261110_life_redev_big",
+  "key": "table:life_redev_big",
+  "instagram": "https://www.instagram.com/reel/Dfi6x1VmsjI/",
+  "threads": null,
+  "design": "v2",
+  "reel": "https://www.instagram.com/reel/Dfi6x1VmsjI/"
  }
 ]
