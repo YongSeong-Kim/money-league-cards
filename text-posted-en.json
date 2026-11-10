@@ -196,5 +196,12 @@
   "key": "inflation",
   "threads": null,
   "x": "buffer:6af1d3b2f35adac6ed1709ab"
+ },
+ {
+  "date": "2026-11-09",
+  "kind": "fact",
+  "key": "from_peak",
+  "threads": null,
+  "x": "buffer:6af27c6d26f9e6aeeada119d"
  }
 ]
