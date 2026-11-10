@@ -863,5 +863,15 @@
   "design": "v2",
   "cover_photo": false,
   "x": "buffer:6af2386621c8282e5bf30cab"
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "morning",
+  "story_id": "story_20261110_morning_brief_en",
+  "key": "story_20261110_morning_brief_en",
+  "instagram": null,
+  "threads": null,
+  "design": "v2",
+  "x": "buffer:6af2fc4da8111f9d3de9d6f9"
  }
 ]
