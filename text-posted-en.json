@@ -203,5 +203,12 @@
   "key": "from_peak",
   "threads": null,
   "x": "buffer:6af27c6d26f9e6aeeada119d"
+ },
+ {
+  "date": "2026-11-10",
+  "kind": "basics",
+  "key": "compounding",
+  "threads": null,
+  "x": "buffer:6af32533be42f217104f9c64"
  }
 ]
